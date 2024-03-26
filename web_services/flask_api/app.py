@@ -1,3 +1,13 @@
+# this is flask framework webservice..
+
+# to run it individually run following commands on terminal
+# set FLASK_APP=app.py
+# set FLASK_ENV = environment
+# flask run
+# flask app will run in default url that is 127.0.0.1:5000
+# u can test your webservices using postmen on url http://127.0.0.1:5000/countries via get and post(json data post) methods
+
+
 # app.py
 from flask import Flask, request, jsonify
 
@@ -9,16 +19,20 @@ countries = [
     {"id": 3, "name": "Egypt", "capital": "Cairo", "area": 1010408},
 ]
 
+# this method will create new id for new record
+
 
 def _find_next_id():
     return max(country["id"] for country in countries) + 1
 
 
+# list all records in the database(global variable currently defined)
 @app.get("/countries")
 def get_countries():
     return jsonify(countries)
 
 
+# add a new record to the database(global variable)
 @app.post("/countries")
 def add_country():
     if request.is_json:
