@@ -1,0 +1,969 @@
+Currency,Balance Amount ,Actual Outstanding in SGD ,Maturity Date,Account Number,Interest Recievable,Bucket,IP/IR bucket,Exchange Rate,Base Ccy,Interest flow,IR Amount,Principal + Interest,Bucket (Principal + Interest),Bucket IR
+USD,"4,83,587.87","15,08,363.34",31-Jan-17,88160000082,25343.9472,8 days to 14 days,Over 3 wks to 1 mth,1.44655,"6,99,534.04","2,681.30","36,661.29","7,02,215.34",Over 3 wks to 1 mth,Over 3 wks to 1 mth
+USD,"5,59,143.68","8,08,829.30",17-Feb-18,88160000082,25343.9472,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"8,08,829.30","23,396.80",0,"8,32,226.10",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","50,47,012.91",05-Jan-17,88160000183,1598.2692,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"2,64,718.65","67,831.71","2,311.98","3,32,550.36",Over 1 mth to 3 mths,Up to 1 week
+USD,"1,83,000.00","2,64,718.65",16-Aug-17,88160000183,1598.2692,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"2,64,718.65","66,465.05",0,"3,31,183.70",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,83,000.00","2,64,718.65",27-Jan-18,88160000183,1598.2692,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"2,64,718.65","62,785.95",0,"3,27,504.60",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","2,64,718.65",26-Jan-18,88160000183,1598.2692,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"2,64,718.65","58,457.33",0,"3,23,175.98",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","2,64,718.65",20-Jul-17,88160000183,1598.2692,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","54,209.56",0,"3,18,928.21",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,83,000.00","2,64,718.65",02-Oct-18,88160000183,1598.2692,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","51,748.65",0,"3,16,467.30",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","2,64,718.65",13-Oct-18,88160000183,1598.2692,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","47,541.32",0,"3,12,259.97",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","2,64,718.65",10-Nov-17,88160000183,1598.2692,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","45,366.07",0,"3,10,084.72",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,83,000.00","2,64,718.65",06-Nov-18,88160000183,1598.2692,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","38,921.84",0,"3,03,640.49",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","2,64,718.65",27-Feb-18,88160000183,1598.2692,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65",0,0,"2,64,718.65",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","2,64,718.65",13-Aug-18,88160000183,1598.2692,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","32,620.12",0,"2,97,338.77",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","2,64,718.65",06-Feb-18,88160000183,1598.2692,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","30,326.23",0,"2,95,044.88",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","2,64,718.65",19-Jul-17,88160000183,1598.2692,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","25,709.29",0,"2,90,427.95",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,83,000.00","2,64,718.65",17-Jun-18,88160000183,1598.2692,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","44,386.47",0,"3,09,105.13",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","2,64,718.65",31-Jan-18,88160000183,1598.2692,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","18,636.75",0,"2,83,355.40",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,83,000.00","2,64,718.65",26-Oct-17,88160000183,1598.2692,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","14,793.28",0,"2,79,511.93",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,83,000.00","2,64,718.65",13-Jan-17,88160000183,1598.2692,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","11,030.67",0,"2,75,749.32",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"1,83,000.00","2,64,718.65",22-Jul-18,88160000183,1598.2692,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,64,718.65","7,599.45",0,"2,72,318.10",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,94,999.94","2,82,077.16",04-Jun-18,88160000183,1598.2692,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,82,077.16","3,920.35",0,"2,85,997.51",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","30,28,207.70",26-Feb-18,88160000184,958.9668,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"1,58,831.19","40,699.02","1,387.19","1,99,530.22",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",04-Nov-17,88160000184,958.9668,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"1,58,831.19","39,879.03",0,"1,98,710.22",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,09,800.00","1,58,831.19",19-Feb-18,88160000184,958.9668,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"1,58,831.19","37,671.57",0,"1,96,502.76",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",15-Jan-17,88160000184,958.9668,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"1,58,831.19","35,074.40",0,"1,93,905.59",Over 1 mth to 3 mths,Over 2 wks to 3 wks
+USD,"1,09,800.00","1,58,831.19",24-Jul-18,88160000184,958.9668,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","32,525.74",0,"1,91,356.93",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",15-Jan-18,88160000184,958.9668,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","31,049.19",0,"1,89,880.38",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",08-Aug-18,88160000184,958.9668,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","28,524.79",0,"1,87,355.98",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",11-Sep-17,88160000184,958.9668,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","27,219.64",0,"1,86,050.83",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,09,800.00","1,58,831.19",01-Nov-18,88160000184,958.9668,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","23,353.10",0,"1,82,184.30",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",18-Dec-18,88160000184,958.9668,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19",0,0,"1,58,831.19",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",13-Jun-17,88160000184,958.9668,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","19,572.07",0,"1,78,403.26",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"1,09,800.00","1,58,831.19",16-Dec-17,88160000184,958.9668,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","18,195.74",0,"1,77,026.93",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,09,800.00","1,58,831.19",07-Jan-18,88160000184,958.9668,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","15,425.57",0,"1,74,256.77",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",13-Aug-18,88160000184,958.9668,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","26,631.88",0,"1,85,463.08",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",07-Oct-18,88160000184,958.9668,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","11,182.05",0,"1,70,013.24",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",04-Aug-18,88160000184,958.9668,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","8,875.97",0,"1,67,707.16",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,09,800.00","1,58,831.19",09-Jun-17,88160000184,958.9668,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","6,618.40",0,"1,65,449.60",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"1,09,800.00","1,58,831.19",03-May-17,88160000184,958.9668,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,58,831.19","4,559.67",0,"1,63,390.86",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"1,16,999.91","1,69,246.22",19-Dec-18,88160000184,958.9668,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,69,246.22","2,352.21",0,"1,71,598.43",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","17,66,454.61",15-May-18,88160000185,559.3896,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"92,651.52","23,741.10",809.19,"1,16,392.62",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","92,651.52",16-Mar-17,88160000185,559.3896,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"92,651.52","23,262.77",0,"1,15,914.29",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"64,050.00","92,651.52",12-Apr-18,88160000185,559.3896,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"92,651.52","21,975.08",0,"1,14,626.61",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","92,651.52",16-Jul-17,88160000185,559.3896,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"92,651.52","20,460.07",0,"1,13,111.59",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"64,050.00","92,651.52",22-Feb-18,88160000185,559.3896,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","18,973.35",0,"1,11,624.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","92,651.52",05-Nov-17,88160000185,559.3896,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","18,112.03",0,"1,10,763.55",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"64,050.00","92,651.52",24-Mar-18,88160000185,559.3896,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","16,639.46",0,"1,09,290.99",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","92,651.52",19-Dec-18,88160000185,559.3896,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","15,878.12",0,"1,08,529.65",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","92,651.52",03-Jan-18,88160000185,559.3896,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","13,622.65",0,"1,06,274.17",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","92,651.52",07-Dec-18,88160000185,559.3896,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"92,651.52",0,0,"92,651.52",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","92,651.52",13-Jun-18,88160000185,559.3896,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","11,417.04",0,"1,04,068.57",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","92,651.52",27-Feb-18,88160000185,559.3896,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","10,614.18",0,"1,03,265.71",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","92,651.52",13-Apr-17,88160000185,559.3896,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","8,998.25",0,"1,01,649.78",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"64,050.00","92,651.52",24-Oct-18,88160000185,559.3896,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","15,535.27",0,"1,08,186.79",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,050.00","92,651.52",27-Aug-17,88160000185,559.3896,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","6,522.87",0,"99,174.39",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"64,050.00","92,651.52",06-Jun-17,88160000185,559.3896,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","5,177.65",0,"97,829.17",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"64,050.00","92,651.52",10-Nov-17,88160000185,559.3896,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","3,860.74",0,"96,512.26",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"64,050.00","92,651.52",13-Apr-18,88160000185,559.3896,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"92,651.52","2,659.81",0,"95,311.33",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"68,250.11","98,727.19",03-Apr-18,88160000185,559.3896,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"98,727.19","1,372.13",0,"1,00,099.31",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"7,92,396.00","91,61,330.96",26-Aug-18,88160000189,2964.2448,Up to 3 Months,Over 3 mths to 6 mths,1.44655,"11,46,240.43","1,04,360.26","4,287.93","12,50,600.69",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"7,92,396.00","11,46,240.43",12-Apr-18,88160000189,2964.2448,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"11,46,240.43","2,30,133.57",0,"13,76,374.01",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"7,92,396.00","11,46,240.43",06-Jun-18,88160000189,2964.2448,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"11,46,240.43","1,91,862.81",0,"13,38,103.24",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"7,92,396.00","11,46,240.43",13-Aug-18,88160000189,2964.2448,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"11,46,240.43","1,66,096.62",0,"13,12,337.05",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"7,92,396.00","11,46,240.43",18-Apr-17,88160000189,2964.2448,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"11,46,240.43","1,26,400.28",0,"12,72,640.72",Over 3 mths to 6 mths,Over 3 mths to 6 mths
+USD,"7,92,396.00","11,46,240.43",04-Jun-18,88160000189,2964.2448,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"11,46,240.43","99,022.95",0,"12,45,263.39",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"7,92,396.00","11,46,240.43",13-Jun-18,88160000189,2964.2448,Up to 5 Years,Over 3 mths to 6 mths,1.44655,"11,46,240.43","64,507.05",0,"12,10,747.48",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"7,86,456.00","11,37,647.93",23-Dec-18,88160000189,2964.2448,Up to 5 Years,Over 3 mths to 6 mths,1.44655,"11,37,647.93","32,309.70",0,"11,69,957.63",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"1,65,000.00","69,21,741.75",23-Feb-17,88160000191,21469.3776,2 days to 7 days,Over 1 mth to 3 mths,1.44655,"2,38,680.75","3,142.57","31,056.53","2,41,823.32",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"1,65,000.00","2,38,680.75",05-Jul-17,88160000191,21469.3776,Up to 4 Months,Over 1 mth to 3 mths,1.44655,"2,38,680.75","90,014.73",0,"3,28,695.48",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,65,000.00","2,38,680.75",01-Nov-17,88160000191,21469.3776,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"2,38,680.75","87,775.20",0,"3,26,455.95",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,65,000.00","2,38,680.75",23-Jan-18,88160000191,21469.3776,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"2,38,680.75","85,463.42",0,"3,24,144.17",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,65,000.00","2,38,680.75",15-Apr-18,88160000191,21469.3776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,38,680.75","81,273.33",0,"3,19,954.08",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,65,000.00","2,38,680.75",25-Feb-18,88160000191,21469.3776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,38,680.75","77,155.48",0,"3,15,836.23",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,65,000.00","2,38,680.75",11-Jun-17,88160000191,21469.3776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,38,680.75","74,771.46",0,"3,13,452.21",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"1,65,000.00","2,38,680.75",15-Oct-18,88160000191,21469.3776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,38,680.75","71,520.53",0,"3,10,201.28",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,65,000.00","2,38,680.75",27-Dec-17,88160000191,21469.3776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,38,680.75","69,786.70",0,"3,08,467.45",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,65,000.00","2,38,680.75",24-Feb-17,88160000191,21469.3776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,38,680.75","63,573.81",0,"3,02,254.56",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"1,65,000.00","2,38,680.75",17-Jul-18,88160000191,21469.3776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,38,680.75","61,767.73",0,"3,00,448.48",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,65,000.00","2,38,680.75",29-Dec-17,88160000191,21469.3776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,38,680.75","59,166.99",0,"2,97,847.74",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,65,000.00","2,38,680.75",11-Feb-17,88160000191,21469.3776,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,38,680.75","56,494.00",0,"2,95,174.75",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"2,31,000.00","3,34,153.05",17-Jul-18,88160000191,21469.3776,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,34,153.05","51,436.99",0,"3,85,590.04",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,31,000.00","3,34,153.05",17-Oct-17,88160000191,21469.3776,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,34,153.05","47,463.63",0,"3,81,616.68",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,31,000.00","3,34,153.05",08-Mar-18,88160000191,21469.3776,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,34,153.05","43,389.12",0,"3,77,542.17",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,31,000.00","3,34,153.05",31-Dec-18,88160000191,21469.3776,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,34,153.05","40,065.95",0,"3,74,219.00",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"8,58,000.00","12,41,139.90",25-May-17,88160000191,21469.3776,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"12,41,139.90","32,307.05",0,"12,73,446.95",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"8,58,000.00","12,41,139.90",08-Dec-17,88160000191,21469.3776,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"12,41,139.90","16,904.85",0,"12,58,044.75",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"90,104.18","37,79,865.52",19-Jun-17,88160000192,11724.1212,2 days to 7 days,Over 1 mth to 3 mths,1.44655,"1,30,340.20","1,716.11","16,959.53","1,32,056.31",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"90,104.18","1,30,340.20",17-Aug-18,88160000192,11724.1212,Up to 4 Months,Over 1 mth to 3 mths,1.44655,"1,30,340.20","49,155.77",0,"1,79,495.97",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"90,104.18","1,30,340.20",28-Dec-18,88160000192,11724.1212,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"1,30,340.20","47,932.80",0,"1,78,272.99",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"90,104.18","1,30,340.20",11-Sep-18,88160000192,11724.1212,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"1,30,340.20","46,670.37",0,"1,77,010.57",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"90,104.18","1,30,340.20",07-Sep-17,88160000192,11724.1212,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,30,340.20","44,382.22",0,"1,74,722.42",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"90,104.18","1,30,340.20",17-Nov-17,88160000192,11724.1212,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,30,340.20","42,133.52",0,"1,72,473.72",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"90,104.18","1,30,340.20",26-May-17,88160000192,11724.1212,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,30,340.20","40,831.64",0,"1,71,171.84",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"90,104.18","1,30,340.20",01-Aug-18,88160000192,11724.1212,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,30,340.20","39,056.35",0,"1,69,396.55",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"90,104.18","1,30,340.20",03-Dec-17,88160000192,11724.1212,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,30,340.20","38,109.53",0,"1,68,449.73",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"90,104.18","1,30,340.20",18-Jan-18,88160000192,11724.1212,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,30,340.20","34,716.76",0,"1,65,056.95",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"90,104.18","1,30,340.20",07-Sep-17,88160000192,11724.1212,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,30,340.20","33,730.49",0,"1,64,070.68",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"90,104.18","1,30,340.20",05-Jan-18,88160000192,11724.1212,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,30,340.20","32,310.25",0,"1,62,650.45",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"90,104.18","1,30,340.20",22-Nov-17,88160000192,11724.1212,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,30,340.20","30,850.57",0,"1,61,190.77",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,26,145.85","1,82,476.27",23-Jan-18,88160000192,11724.1212,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,82,476.27","28,089.01",0,"2,10,565.29",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,26,145.85","1,82,476.27",18-Oct-17,88160000192,11724.1212,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,82,476.27","25,919.22",0,"2,08,395.49",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,26,145.85","1,82,476.27",16-Feb-17,88160000192,11724.1212,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,82,476.27","23,694.19",0,"2,06,170.46",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"1,26,145.85","1,82,476.27",30-Dec-17,88160000192,11724.1212,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"1,82,476.27","21,879.45",0,"2,04,355.72",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"4,68,541.70","6,77,769.00",01-Jul-17,88160000192,11724.1212,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"6,77,769.00","17,642.42",0,"6,95,411.42",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"4,68,541.61","6,77,768.87",09-Dec-18,88160000192,11724.1212,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"6,77,768.87","9,231.50",0,"6,87,000.37",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"31,96,572.87","31,96,572.87",30-Oct-17,88160000200,17170.8042,Up to 4 Months,Over 3 mths to 6 mths,1,"31,96,572.87","25,602.57","17,170.80","32,22,175.43",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+SGD,"56,766.88","11,35,337.44",10-Apr-17,88160000219,260.2776,Up to 2 Months,Over 1 mth to 3 mths,1,"56,766.88","4,187.26",260.28,"60,954.14",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"56,766.88","56,766.88",28-Jul-18,88160000219,260.2776,Up to 2 Months,Over 1 mth to 3 mths,1,"56,766.88","3,464.62",0,"60,231.50",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"56,766.88","56,766.88",28-Apr-17,88160000219,260.2776,Up to 4 Months,Over 1 mth to 3 mths,1,"56,766.88","3,646.97",0,"60,413.85",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"56,766.88","56,766.88",10-Feb-18,88160000219,260.2776,Up to 4 Months,Over 1 mth to 3 mths,1,"56,766.88","3,099.93",0,"59,866.80",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"56,766.88","56,766.88",10-Jan-17,88160000219,260.2776,Up to 6 Months,Over 1 mth to 3 mths,1,"56,766.88","3,457.87",0,"60,224.75",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+SGD,"56,766.88","56,766.88",09-Jan-17,88160000219,260.2776,Up to 6 Months,Over 1 mth to 3 mths,1,"56,766.88","2,937.84",0,"59,704.71",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+SGD,"56,766.88","56,766.88",24-Jun-17,88160000219,260.2776,Up to 1 Year,Over 1 mth to 3 mths,1,"56,766.88","2,836.53",0,"59,603.41",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"56,766.88","56,766.88",05-Sep-17,88160000219,260.2776,Up to 1 Year,Over 1 mth to 3 mths,1,"56,766.88","2,633.92",0,"59,400.80",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"56,766.88","56,766.88",27-Apr-18,88160000219,260.2776,Up to 1 Year,Over 1 mth to 3 mths,1,"56,766.88","2,269.23",0,"59,036.10",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"56,766.88","56,766.88",03-Apr-18,88160000219,260.2776,Up to 1 Year,Over 1 mth to 3 mths,1,"56,766.88","2,302.99",0,"59,069.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"56,766.88","56,766.88",01-Aug-18,88160000219,260.2776,Up to 1 Year,Over 1 mth to 3 mths,1,"56,766.88","1,958.56",0,"58,725.44",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"56,766.88","56,766.88",28-Jun-18,88160000219,260.2776,Up to 1 Year,Over 1 mth to 3 mths,1,"56,766.88","1,701.92",0,"58,468.80",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"56,766.88","56,766.88",05-Apr-18,88160000219,260.2776,Up to 3 Years,Over 1 mth to 3 mths,1,"56,766.88","1,728.93",0,"58,495.81",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"56,766.88","56,766.88",11-Mar-18,88160000219,260.2776,Up to 3 Years,Over 1 mth to 3 mths,1,"56,766.88","1,276.44",0,"58,043.32",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"56,766.88","56,766.88",27-May-17,88160000219,260.2776,Up to 3 Years,Over 1 mth to 3 mths,1,"56,766.88","1,134.61",0,"57,901.49",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"56,766.88","56,766.88",13-Mar-18,88160000219,260.2776,Up to 3 Years,Over 1 mth to 3 mths,1,"56,766.88","1,046.82",0,"57,813.69",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"56,766.88","56,766.88",16-Nov-17,88160000219,260.2776,Up to 3 Years,Over 1 mth to 3 mths,1,"56,766.88",810.44,0,"57,577.31",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"56,766.88","56,766.88",06-Sep-17,88160000219,260.2776,Up to 3 Years,Over 1 mth to 3 mths,1,"56,766.88",567.31,0,"57,334.18",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"56,766.88","56,766.88",20-Feb-17,88160000219,260.2776,Up to 3 Years,Over 1 mth to 3 mths,1,"56,766.88",418.73,0,"57,185.60",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+SGD,"56,766.77","56,766.77",09-Aug-18,88160000219,260.2776,Up to 3 Years,Over 1 mth to 3 mths,1,"56,766.77",202.61,0,"56,969.38",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,58,40,000.00","2,86,41,690.00",20-Sep-18,88160000235,173609.568,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"2,29,13,352.00","14,68,931.27","2,51,134.92","2,43,82,283.27",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"39,60,000.00","57,28,338.00",28-Apr-18,88160000235,173609.568,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"57,28,338.00","56,497.36",0,"57,84,835.36",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"4,95,000.00","1,34,61,594.30",30-Oct-18,88160000247,100783.98,2 days to 7 days,Over 2 wks to 3 wks,1.44655,"7,16,042.25","5,887.39","1,45,789.07","7,21,929.64",Over 2 wks to 3 wks,Over 1 yr to 2 yrs 
+USD,"4,95,000.00","7,16,042.25",13-Apr-17,88160000247,100783.98,Up to 4 Months,Over 2 wks to 3 wks,1.44655,"7,16,042.25","1,65,368.98",0,"8,81,411.23",Over 2 wks to 3 wks,Over 3 mths to 6 mths
+USD,"4,95,000.00","7,16,042.25",20-Apr-17,88160000247,100783.98,Up to 1 Year,Over 2 wks to 3 wks,1.44655,"7,16,042.25","1,57,832.28",0,"8,73,874.53",Over 2 wks to 3 wks,Over 3 mths to 6 mths
+USD,"4,95,000.00","7,16,042.25",30-May-18,88160000247,100783.98,Up to 1 Year,Over 2 wks to 3 wks,1.44655,"7,16,042.25","1,50,086.81",0,"8,66,129.06",Over 2 wks to 3 wks,Over 1 yr to 2 yrs 
+USD,"4,95,000.00","7,16,042.25",02-Jun-18,88160000247,100783.98,Up to 3 Years,Over 2 wks to 3 wks,1.44655,"7,16,042.25","1,39,042.72",0,"8,55,084.97",Over 2 wks to 3 wks,Over 1 yr to 2 yrs 
+USD,"4,95,000.00","7,16,042.25",18-Mar-18,88160000247,100783.98,Up to 3 Years,Over 2 wks to 3 wks,1.44655,"7,16,042.25","1,28,207.41",0,"8,44,249.66",Over 2 wks to 3 wks,Over 1 yr to 2 yrs 
+USD,"7,92,000.00","11,45,667.60",25-Aug-18,88160000247,100783.98,Up to 3 Years,Over 2 wks to 3 wks,1.44655,"11,45,667.60","1,20,253.17",0,"12,65,920.77",Over 2 wks to 3 wks,Over 1 yr to 2 yrs 
+USD,"7,92,000.00","11,45,667.60",01-Jul-18,88160000247,100783.98,Up to 3 Years,Over 2 wks to 3 wks,1.44655,"11,45,667.60","1,05,221.52",0,"12,50,889.12",Over 2 wks to 3 wks,Over 1 yr to 2 yrs 
+USD,"7,92,000.00","11,45,667.60",20-Feb-17,88160000247,100783.98,Up to 3 Years,Over 2 wks to 3 wks,1.44655,"11,45,667.60","92,194.09",0,"12,37,861.69",Over 2 wks to 3 wks,Over 1 mth to 3 mths
+USD,"7,92,000.00","11,45,667.60",25-Jun-18,88160000247,100783.98,Up to 3 Years,Over 2 wks to 3 wks,1.44655,"11,45,667.60","73,488.05",0,"12,19,155.65",Over 2 wks to 3 wks,Over 1 yr to 2 yrs 
+USD,"7,92,000.00","11,45,667.60",02-Feb-17,88160000247,100783.98,Up to 3 Years,Over 2 wks to 3 wks,1.44655,"11,45,667.60","60,126.58",0,"12,05,794.18",Over 2 wks to 3 wks,Over 1 mth to 3 mths
+USD,"7,92,000.00","11,45,667.60",02-Jun-18,88160000247,100783.98,Up to 3 Years,Over 2 wks to 3 wks,1.44655,"11,45,667.60","45,595.99",0,"11,91,263.59",Over 2 wks to 3 wks,Over 1 yr to 2 yrs 
+USD,"7,92,000.00","11,45,667.60",17-Jan-18,88160000247,100783.98,Up to 5 Years,Over 2 wks to 3 wks,1.44655,"11,45,667.60","30,731.36",0,"11,76,398.96",Over 2 wks to 3 wks,Over 1 yr to 2 yrs 
+USD,"7,92,000.00","11,45,667.60",17-Jan-17,88160000247,100783.98,Up to 5 Years,Over 2 wks to 3 wks,1.44655,"11,45,667.60","14,864.63",0,"11,60,532.23",Over 2 wks to 3 wks,Over 2 wks to 3 wks
+USD,"6,24,577.54","1,07,66,501.55",07-Jan-18,88160000248,26240.2932,8 days to 14 days, Over 1 wk to 2 wks,1.44655,"9,03,482.64","24,296.41","37,957.90","9,27,779.05", Over 1 wk to 2 wks,Over 1 yr to 2 yrs 
+USD,"6,24,577.54","9,03,482.64",29-Aug-18,88160000248,26240.2932,Up to 2 Months, Over 1 wk to 2 wks,1.44655,"9,03,482.64","57,498.66",0,"9,60,981.30", Over 1 wk to 2 wks,Over 1 yr to 2 yrs 
+USD,"6,24,577.54","9,03,482.64",28-May-18,88160000248,26240.2932,Up to 3 Months, Over 1 wk to 2 wks,1.44655,"9,03,482.64","45,492.05",0,"9,48,974.69", Over 1 wk to 2 wks,Over 1 yr to 2 yrs 
+USD,"6,24,577.54","9,03,482.64",13-Jan-18,88160000248,26240.2932,Up to 4 Months, Over 1 wk to 2 wks,1.44655,"9,03,482.64","43,934.58",0,"9,47,417.23", Over 1 wk to 2 wks,Over 1 yr to 2 yrs 
+USD,"6,24,577.54","9,03,482.64",06-Mar-18,88160000248,26240.2932,Up to 5 Months, Over 1 wk to 2 wks,1.44655,"9,03,482.64","39,007.34",0,"9,42,489.98", Over 1 wk to 2 wks,Over 1 yr to 2 yrs 
+USD,"6,24,577.54","9,03,482.64",07-Oct-18,88160000248,26240.2932,Up to 6 Months, Over 1 wk to 2 wks,1.44655,"9,03,482.64","35,255.27",0,"9,38,737.92", Over 1 wk to 2 wks,Over 1 yr to 2 yrs 
+USD,"6,24,577.54","9,03,482.64",09-Feb-18,88160000248,26240.2932,Up to 1 Year, Over 1 wk to 2 wks,1.44655,"9,03,482.64","29,152.85",0,"9,32,635.50", Over 1 wk to 2 wks,Over 1 yr to 2 yrs 
+USD,"6,24,577.54","9,03,482.64",15-Jun-17,88160000248,26240.2932,Up to 1 Year, Over 1 wk to 2 wks,1.44655,"9,03,482.64","26,731.71",0,"9,30,214.35", Over 1 wk to 2 wks,Over 3 mths to 6 mths
+USD,"6,24,577.54","9,03,482.64",29-Jul-17,88160000248,26240.2932,Up to 1 Year, Over 1 wk to 2 wks,1.44655,"9,03,482.64","18,632.91",0,"9,22,115.55", Over 1 wk to 2 wks,Over 6 mths to 1 yr
+USD,"6,24,577.54","9,03,482.64",08-Jan-18,88160000248,26240.2932,Up to 1 Year, Over 1 wk to 2 wks,1.44655,"9,03,482.64","14,371.13",0,"9,17,853.77", Over 1 wk to 2 wks,Over 1 yr to 2 yrs 
+USD,"6,24,577.54","9,03,482.64",21-Sep-18,88160000248,26240.2932,Up to 1 Year, Over 1 wk to 2 wks,1.44655,"9,03,482.64","10,095.18",0,"9,13,577.83", Over 1 wk to 2 wks,Over 1 yr to 2 yrs 
+USD,"5,72,529.44","8,28,192.46",01-Apr-17,88160000248,26240.2932,Up to 1 Year, Over 1 wk to 2 wks,1.44655,"8,28,192.46","4,360.89",0,"8,32,553.36", Over 1 wk to 2 wks,Over 3 mths to 6 mths
+USD,"10,93,922.65","96,13,163.92",24-Jan-18,88160000260,95327.1924,Up to 4 Months,Over 3 mths to 6 mths,1.44655,"15,82,413.81","1,44,476.06","1,37,895.55","17,26,889.87",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"16,40,883.98","23,73,620.72",11-Aug-18,88160000260,95327.1924,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"23,73,620.72","2,36,196.84",0,"26,09,817.56",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"39,10,773.48","56,57,129.38",20-May-17,88160000260,95327.1924,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"56,57,129.38","1,65,470.76",0,"58,22,600.15",Over 3 mths to 6 mths,Over 3 mths to 6 mths
+USD,"1,09,392.27","9,61,316.38",31-Dec-17,88160000261,9532.7166,Up to 4 Months,Over 3 mths to 6 mths,1.44655,"1,58,241.38","14,447.61","13,789.55","1,72,688.99",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"1,64,088.40","2,37,362.08",22-Feb-17,88160000261,9532.7166,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"2,37,362.08","23,619.68",0,"2,60,981.76",Over 3 mths to 6 mths,Over 1 mth to 3 mths
+USD,"3,91,077.34","5,65,712.92",20-Jul-17,88160000261,9532.7166,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"5,65,712.92","16,547.08",0,"5,82,260.00",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"5,35,251.39","2,79,82,362.80",02-Apr-18,88160000265,6516.7806,Due on Value Day,Over 3 mths to 6 mths,1.44655,"7,74,267.90","8,41,943.13","9,426.85","16,16,211.03",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"3,59,734.13","5,20,373.40",02-Feb-18,88160000265,6516.7806,Due on Value Day,Over 3 mths to 6 mths,1.44655,"5,20,373.40",0,0,"5,20,373.40",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"3,59,734.13","5,20,373.40",24-Sep-18,88160000265,6516.7806,Up to 6 Months,Over 3 mths to 6 mths,1.44655,"5,20,373.40","8,07,450.56",0,"13,27,823.96",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"6,16,687.07","8,92,068.68",22-Oct-17,88160000265,6516.7806,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"8,92,068.68","7,91,706.40",0,"16,83,775.08",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"6,16,687.07","8,92,068.68",15-Dec-18,88160000265,6516.7806,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"8,92,068.68","7,64,716.41",0,"16,56,785.09",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"1,68,56,113.32","2,43,83,210.73",29-Dec-17,88160000265,6516.7806,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"2,43,83,210.73","7,37,726.42",0,"2,51,20,937.14",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"2,40,594.78","1,25,78,034.00",05-Sep-17,88160000270,2929.278,Due on Value Day,Over 3 mths to 6 mths,1.44655,"3,48,032.37","3,78,452.29","4,237.35","7,26,484.66",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"1,61,700.00","2,33,907.14",16-Dec-18,88160000270,2929.278,Due on Value Day,Over 3 mths to 6 mths,1.44655,"2,33,907.14",0,0,"2,33,907.14",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"1,61,700.00","2,33,907.14",26-Oct-17,88160000270,2929.278,Up to 6 Months,Over 3 mths to 6 mths,1.44655,"2,33,907.14","3,62,947.93",0,"5,96,855.06",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"2,77,200.00","4,00,983.66",04-Jun-17,88160000270,2929.278,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"4,00,983.66","3,55,870.95",0,"7,56,854.61",Over 3 mths to 6 mths,Over 3 mths to 6 mths
+USD,"2,77,200.00","4,00,983.66",18-May-17,88160000270,2929.278,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"4,00,983.66","3,43,738.98",0,"7,44,722.64",Over 3 mths to 6 mths,Over 3 mths to 6 mths
+USD,"75,76,800.00","1,09,60,220.04",27-Nov-17,88160000270,2929.278,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"1,09,60,220.04","3,31,607.02",0,"1,12,91,827.06",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"3,300.00","95,47,230.00",27-Jun-18,88160000284,4595.0652,Up to 6 Months,Over 3 mths to 6 mths,1.44655,"4,773.62","2,97,532.24","6,646.99","3,02,305.86",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"3,300.00","4,773.62",02-Oct-17,88160000284,4595.0652,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"4,773.62","3,02,367.56",0,"3,07,141.17",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"16,500.00","23,868.08",08-Jul-17,88160000284,4595.0652,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"23,868.08","3,00,555.77",0,"3,24,423.84",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"16,500.00","23,868.08",04-Jul-18,88160000284,4595.0652,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"23,868.08","3,01,460.00",0,"3,25,328.08",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"65,60,400.00","94,89,946.62",21-Jan-18,88160000284,4595.0652,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"94,89,946.62","2,99,051.49",0,"97,88,998.11",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,455.68,"13,18,315.15",22-Jun-17,88160000285,634.5042,Up to 6 Months,Over 3 mths to 6 mths,1.44655,659.16,"41,084.30",917.84,"41,743.46",Over 3 mths to 6 mths,Over 3 mths to 6 mths
+USD,455.68,659.16,17-Sep-18,88160000285,634.5042,Up to 1 Year,Over 3 mths to 6 mths,1.44655,659.16,"41,751.98",0,"42,411.14",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"2,278.38","3,295.79",06-Mar-17,88160000285,634.5042,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"3,295.79","41,501.80",0,"44,797.59",Over 3 mths to 6 mths,Over 1 mth to 3 mths
+USD,"2,278.38","3,295.79",19-Jan-18,88160000285,634.5042,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"3,295.79","41,626.66",0,"44,922.45",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"9,05,883.14","13,10,405.25",20-Jan-17,88160000285,634.5042,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"13,10,405.25","41,294.08",0,"13,51,699.34",Over 3 mths to 6 mths,Over 2 wks to 3 wks
+USD,438.21,"12,67,794.60",21-Feb-17,88160000286,610.1832,Up to 6 Months,Over 3 mths to 6 mths,1.44655,633.9,"39,509.87",882.66,"40,143.76",Over 3 mths to 6 mths,Over 1 mth to 3 mths
+USD,438.21,633.9,28-Feb-18,88160000286,610.1832,Up to 1 Year,Over 3 mths to 6 mths,1.44655,633.9,"40,151.96",0,"40,785.85",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"2,191.07","3,169.49",25-Mar-18,88160000286,610.1832,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"3,169.49","39,911.37",0,"43,080.85",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"2,191.07","3,169.49",11-Feb-17,88160000286,610.1832,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"3,169.49","40,031.44",0,"43,200.93",Over 3 mths to 6 mths,Over 1 mth to 3 mths
+USD,"8,71,167.83","12,60,187.83",25-Jul-18,88160000286,610.1832,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"12,60,187.83","39,711.61",0,"12,99,899.44",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.62","1,96,212.56",13-May-18,88160000291,44.9856,Up to 2 Months,Over 1 mth to 3 mths,1,"9,810.62",723.66,44.99,"10,534.28",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.62","9,810.62",11-Oct-18,88160000291,44.9856,Up to 2 Months,Over 1 mth to 3 mths,1,"9,810.62",598.77,0,"10,409.39",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.62","9,810.62",09-Mar-18,88160000291,44.9856,Up to 4 Months,Over 1 mth to 3 mths,1,"9,810.62",630.28,0,"10,440.90",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.62","9,810.62",18-Sep-17,88160000291,44.9856,Up to 4 Months,Over 1 mth to 3 mths,1,"9,810.62",535.74,0,"10,346.36",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"9,810.62","9,810.62",07-Jun-18,88160000291,44.9856,Up to 6 Months,Over 1 mth to 3 mths,1,"9,810.62",597.6,0,"10,408.22",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.62","9,810.62",13-Apr-17,88160000291,44.9856,Up to 6 Months,Over 1 mth to 3 mths,1,"9,810.62",507.73,0,"10,318.35",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"9,810.62","9,810.62",07-Oct-18,88160000291,44.9856,Up to 1 Year,Over 1 mth to 3 mths,1,"9,810.62",490.22,0,"10,300.84",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.62","9,810.62",30-May-18,88160000291,44.9856,Up to 1 Year,Over 1 mth to 3 mths,1,"9,810.62",455.2,0,"10,265.83",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.62","9,810.62",30-Sep-17,88160000291,44.9856,Up to 1 Year,Over 1 mth to 3 mths,1,"9,810.62",392.17,0,"10,202.80",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"9,810.62","9,810.62",21-Apr-17,88160000291,44.9856,Up to 1 Year,Over 1 mth to 3 mths,1,"9,810.62",398.01,0,"10,208.63",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"9,810.62","9,810.62",20-Jun-17,88160000291,44.9856,Up to 1 Year,Over 1 mth to 3 mths,1,"9,810.62",338.48,0,"10,149.11",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"9,810.62","9,810.62",27-Jan-17,88160000291,44.9856,Up to 1 Year,Over 1 mth to 3 mths,1,"9,810.62",294.13,0,"10,104.75",Over 1 mth to 3 mths,Over 3 wks to 1 mth
+SGD,"9,810.62","9,810.62",06-Feb-17,88160000291,44.9856,Up to 3 Years,Over 1 mth to 3 mths,1,"9,810.62",298.8,0,"10,109.42",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+SGD,"9,810.62","9,810.62",26-Aug-18,88160000291,44.9856,Up to 3 Years,Over 1 mth to 3 mths,1,"9,810.62",220.6,0,"10,031.22",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.62","9,810.62",25-Nov-18,88160000291,44.9856,Up to 3 Years,Over 1 mth to 3 mths,1,"9,810.62",196.09,0,"10,006.71",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.62","9,810.62",06-Dec-17,88160000291,44.9856,Up to 3 Years,Over 1 mth to 3 mths,1,"9,810.62",180.91,0,"9,991.54",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"9,810.62","9,810.62",05-Sep-17,88160000291,44.9856,Up to 3 Years,Over 1 mth to 3 mths,1,"9,810.62",140.06,0,"9,950.69",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"9,810.62","9,810.62",25-Oct-18,88160000291,44.9856,Up to 3 Years,Over 1 mth to 3 mths,1,"9,810.62",98.04,0,"9,908.67",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.62","9,810.62",09-Mar-18,88160000291,44.9856,Up to 3 Years,Over 1 mth to 3 mths,1,"9,810.62",72.37,0,"9,882.99",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,810.72","9,810.72",01-Jan-18,88160000291,44.9856,Up to 3 Years,Over 1 mth to 3 mths,1,"9,810.72",35.02,0,"9,845.74",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"66,000.00","4,62,000.00",03-Jul-17,88160000321,3909.2262,Up to 4 Months,Over 1 mth to 3 mths,1,"66,000.00","4,292.63","3,909.23","70,292.63",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"66,000.00","66,000.00",13-Aug-18,88160000321,3909.2262,Up to 1 Year,Over 1 mth to 3 mths,1,"66,000.00","7,399.67",0,"73,399.67",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"66,000.00","66,000.00",23-Jun-17,88160000321,3909.2262,Up to 3 Years,Over 1 mth to 3 mths,1,"66,000.00","6,132.32",0,"72,132.32",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"66,000.00","66,000.00",02-Dec-18,88160000321,3909.2262,Up to 3 Years,Over 1 mth to 3 mths,1,"66,000.00","4,960.37",0,"70,960.37",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"66,000.00","66,000.00",08-May-17,88160000321,3909.2262,Up to 3 Years,Over 1 mth to 3 mths,1,"66,000.00","3,699.84",0,"69,699.84",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"66,000.00","66,000.00",05-Dec-18,88160000321,3909.2262,Up to 3 Years,Over 1 mth to 3 mths,1,"66,000.00","2,507.44",0,"68,507.44",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"66,000.00","66,000.00",16-Feb-18,88160000321,3909.2262,Up to 5 Years,Over 1 mth to 3 mths,1,"66,000.00","1,240.09",0,"67,240.09",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,90,000.00","69,30,000.00",03-Jun-18,88160000324,58638.3534,Up to 4 Months,Over 1 mth to 3 mths,1,"9,90,000.00","64,389.40","58,638.35","10,54,389.40",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,90,000.00","9,90,000.00",20-Feb-17,88160000324,58638.3534,Up to 1 Year,Over 1 mth to 3 mths,1,"9,90,000.00","1,10,995.06",0,"11,00,995.06",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+SGD,"9,90,000.00","9,90,000.00",03-Mar-18,88160000324,58638.3534,Up to 3 Years,Over 1 mth to 3 mths,1,"9,90,000.00","91,984.86",0,"10,81,984.86",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,90,000.00","9,90,000.00",18-Jan-18,88160000324,58638.3534,Up to 3 Years,Over 1 mth to 3 mths,1,"9,90,000.00","74,405.53",0,"10,64,405.53",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,90,000.00","9,90,000.00",23-Sep-18,88160000324,58638.3534,Up to 3 Years,Over 1 mth to 3 mths,1,"9,90,000.00","55,497.53",0,"10,45,497.53",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,90,000.00","9,90,000.00",22-Dec-18,88160000324,58638.3534,Up to 3 Years,Over 1 mth to 3 mths,1,"9,90,000.00","37,611.59",0,"10,27,611.59",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,90,000.00","9,90,000.00",17-Feb-17,88160000324,58638.3534,Up to 5 Years,Over 1 mth to 3 mths,1,"9,90,000.00","18,601.38",0,"10,08,601.38",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"6,60,000.00","2,10,03,906.00",28-May-17,88160000351,98289.4374,15 days to 28 days,Over 3 wks to 1 mth,1.44655,"9,54,723.00","48,955.38","1,42,180.59","10,03,678.38",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"6,60,000.00","9,54,723.00",26-Sep-17,88160000351,98289.4374,Up to 4 Months,Over 3 wks to 1 mth,1.44655,"9,54,723.00","1,82,857.07",0,"11,37,580.07",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"6,60,000.00","9,54,723.00",06-Dec-17,88160000351,98289.4374,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"9,54,723.00","1,74,149.59",0,"11,28,872.59",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"6,60,000.00","9,54,723.00",27-Aug-17,88160000351,98289.4374,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"9,54,723.00","1,65,442.11",0,"11,20,165.11",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"8,25,000.00","11,93,403.75",25-Nov-17,88160000351,98289.4374,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"11,93,403.75","1,58,476.13",0,"13,51,879.88",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"8,25,000.00","11,93,403.75",25-Apr-18,88160000351,98289.4374,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"11,93,403.75","1,44,229.72",0,"13,37,633.47",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"8,25,000.00","11,93,403.75",10-Sep-17,88160000351,98289.4374,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"11,93,403.75","1,34,965.93",0,"13,28,369.68",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"8,25,000.00","11,93,403.75",19-Jul-18,88160000351,98289.4374,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"11,93,403.75","1,25,460.27",0,"13,18,864.02",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",07-Nov-17,88160000351,98289.4374,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","1,14,454.98",0,"15,46,539.48",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"9,90,000.00","14,32,084.50",02-Oct-18,88160000351,98289.4374,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","99,023.39",0,"15,31,107.89",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",17-Jul-18,88160000351,98289.4374,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","87,074.80",0,"15,19,159.30",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",17-Mar-17,88160000351,98289.4374,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","74,835.95",0,"15,06,920.45",Over 3 wks to 1 mth,Over 1 mth to 3 mths
+USD,"23,10,000.00","33,41,530.50",10-Mar-18,88160000351,98289.4374,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"33,41,530.50","61,629.61",0,"34,03,160.11",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"23,10,000.00","33,41,530.50",06-Sep-17,88160000351,98289.4374,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"33,41,530.50","30,476.18",0,"33,72,006.68",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"4,48,432.06","1,29,73,587.80",22-Apr-17,88160000365,66838.5168,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","13,09,017.01","96,685.26","19,57,696.40",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"4,48,432.06","6,48,679.39",25-Aug-18,88160000365,66838.5168,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","1,46,301.90",0,"7,94,981.29",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.06","6,48,679.39",24-Oct-17,88160000365,66838.5168,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","1,38,601.80",0,"7,87,281.19",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"4,48,432.06","6,48,679.39",17-Aug-18,88160000365,66838.5168,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","1,30,901.70",0,"7,79,581.09",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.06","6,48,679.39",30-Nov-18,88160000365,66838.5168,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","1,24,570.51",0,"7,73,249.90",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.06","6,48,679.39",17-Nov-17,88160000365,66838.5168,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","1,14,218.15",0,"7,62,897.54",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"4,48,432.06","6,48,679.39",04-Aug-18,88160000365,66838.5168,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","1,08,999.19",0,"7,57,678.59",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.06","6,48,679.39",18-Jul-17,88160000365,66838.5168,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","1,01,213.54",0,"7,49,892.93",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"4,48,432.06","6,48,679.39",24-Jul-17,88160000365,66838.5168,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","93,427.88",0,"7,42,107.27",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"4,48,432.06","6,48,679.39",16-Apr-18,88160000365,66838.5168,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","82,818.85",0,"7,31,498.25",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.06","6,48,679.39",04-Aug-18,88160000365,66838.5168,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","77,856.57",0,"7,26,535.96",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.06","6,48,679.39",31-Oct-17,88160000365,66838.5168,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","70,840.92",0,"7,19,520.31",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"4,48,432.06","6,48,679.39",25-Sep-18,88160000365,66838.5168,Over 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","61,600.80",0,"7,10,280.19",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.06","6,48,679.39",12-Mar-18,88160000365,66838.5168,Over 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","52,702.91",0,"7,01,382.30",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.06","6,48,679.39",03-Sep-17,88160000365,66838.5168,Over 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","46,713.94",0,"6,95,393.33",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"4,48,432.06","6,48,679.39",24-Apr-17,88160000365,66838.5168,Over 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","38,928.28",0,"6,87,607.67",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"4,48,432.06","6,48,679.39",27-Mar-18,88160000365,66838.5168,Over 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","31,827.08",0,"6,80,506.47",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.06","6,48,679.39",03-May-18,88160000365,66838.5168,Over 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","22,073.62",0,"6,70,753.01",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.06","6,48,679.39",11-May-18,88160000365,66838.5168,Over 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.39","15,571.31",0,"6,64,250.70",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,48,432.04","6,48,679.36",27-Feb-17,88160000365,66838.5168,Over 5 Years,Over 1 mth to 3 mths,1.44655,"6,48,679.36","7,700.10",0,"6,56,379.46",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"6,60,000.00","1,71,85,014.00",24-Feb-17,88160000386,2803.7922,Up to 4 Months,Over 1 mth to 3 mths,1.44655,"9,54,723.00","1,82,512.15","4,055.83","11,37,235.15",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"6,60,000.00","9,54,723.00",07-Dec-18,88160000386,2803.7922,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"9,54,723.00","1,72,372.59",0,"11,27,095.59",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"6,60,000.00","9,54,723.00",10-Mar-18,88160000386,2803.7922,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"9,54,723.00","1,62,233.02",0,"11,16,956.02",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"9,24,000.00","13,36,612.20",25-Sep-17,88160000386,2803.7922,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"13,36,612.20","1,52,093.46",0,"14,88,705.66",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"9,24,000.00","13,36,612.20",24-Mar-17,88160000386,2803.7922,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"13,36,612.20","1,36,365.87",0,"14,72,978.07",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"9,24,000.00","13,36,612.20",07-May-17,88160000386,2803.7922,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"13,36,612.20","1,25,077.16",0,"14,61,689.36",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"9,24,000.00","13,36,612.20",18-Oct-17,88160000386,2803.7922,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"13,36,612.20","1,09,507.29",0,"14,46,119.49",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"9,24,000.00","13,36,612.20",30-Aug-17,88160000386,2803.7922,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"13,36,612.20","98,488.97",0,"14,35,101.17",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"13,20,000.00","19,09,446.00",04-Aug-17,88160000386,2803.7922,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,09,446.00","78,412.63",0,"19,87,858.63",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"13,20,000.00","19,09,446.00",07-Jun-18,88160000386,2803.7922,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,09,446.00","60,837.38",0,"19,70,283.38",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"26,40,000.00","38,18,892.00",25-Nov-17,88160000386,2803.7922,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"38,18,892.00","41,910.20",0,"38,60,802.20",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,49,477.35","43,24,529.27",23-Mar-17,88160000387,22279.5078,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","4,36,339.00","32,228.42","6,52,565.47",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"1,49,477.35","2,16,226.47",14-Nov-17,88160000387,22279.5078,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","48,767.30",0,"2,64,993.77",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,49,477.35","2,16,226.47",13-Apr-18,88160000387,22279.5078,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","46,200.60",0,"2,62,427.07",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",22-Feb-18,88160000387,22279.5078,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","43,633.90",0,"2,59,860.37",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",08-Jun-18,88160000387,22279.5078,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","41,523.50",0,"2,57,749.97",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",08-Jan-17,88160000387,22279.5078,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","38,072.72",0,"2,54,299.18",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"1,49,477.35","2,16,226.47",19-Nov-18,88160000387,22279.5078,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","36,333.06",0,"2,52,559.53",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",20-Mar-18,88160000387,22279.5078,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","33,737.85",0,"2,49,964.31",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",15-Jan-17,88160000387,22279.5078,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","31,142.63",0,"2,47,369.09",Over 1 mth to 3 mths,Over 2 wks to 3 wks
+USD,"1,49,477.35","2,16,226.47",15-Sep-18,88160000387,22279.5078,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","27,606.28",0,"2,43,832.75",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",02-Apr-18,88160000387,22279.5078,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","25,952.19",0,"2,42,178.66",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",16-Feb-18,88160000387,22279.5078,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","23,613.64",0,"2,39,840.11",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",16-Feb-18,88160000387,22279.5078,Over 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","20,533.60",0,"2,36,760.07",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",07-Aug-18,88160000387,22279.5078,Over 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","17,567.64",0,"2,33,794.10",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",24-Aug-17,88160000387,22279.5078,Over 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","15,571.31",0,"2,31,797.78",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,49,477.35","2,16,226.47",16-Mar-17,88160000387,22279.5078,Over 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","12,976.09",0,"2,29,202.56",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"1,49,477.35","2,16,226.47",08-Jun-18,88160000387,22279.5078,Over 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","10,609.03",0,"2,26,835.49",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",12-Sep-18,88160000387,22279.5078,Over 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","7,357.87",0,"2,23,584.34",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,49,477.35","2,16,226.47",11-Nov-17,88160000387,22279.5078,Over 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.47","5,190.44",0,"2,21,416.90",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,49,477.31","2,16,226.40",11-Jun-18,88160000387,22279.5078,Over 5 Years,Over 1 mth to 3 mths,1.44655,"2,16,226.40","2,566.70",0,"2,18,793.10",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,24,216.03","64,86,793.90",23-Jan-17,88160000397,33419.2584,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","6,54,508.50","48,342.63","9,78,848.19",Over 1 mth to 3 mths,Over 3 wks to 1 mth
+USD,"2,24,216.03","3,24,339.69",28-Nov-17,88160000397,33419.2584,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","73,150.95",0,"3,97,490.64",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,24,216.03","3,24,339.69",23-Mar-18,88160000397,33419.2584,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","69,300.90",0,"3,93,640.59",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,24,216.03","3,24,339.69",30-Apr-17,88160000397,33419.2584,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","65,450.85",0,"3,89,790.54",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"2,24,216.03","3,24,339.69",10-Mar-17,88160000397,33419.2584,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","62,285.25",0,"3,86,624.94",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"2,24,216.03","3,24,339.69",14-May-18,88160000397,33419.2584,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","57,109.08",0,"3,81,448.77",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,24,216.03","3,24,339.69",12-Dec-17,88160000397,33419.2584,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","54,499.60",0,"3,78,839.29",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,24,216.03","3,24,339.69",04-May-18,88160000397,33419.2584,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","50,606.77",0,"3,74,946.46",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,24,216.03","3,24,339.69",08-Jun-18,88160000397,33419.2584,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","46,713.94",0,"3,71,053.63",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,24,216.03","3,24,339.69",15-Sep-18,88160000397,33419.2584,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","41,409.43",0,"3,65,749.12",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,24,216.03","3,24,339.69",03-Sep-18,88160000397,33419.2584,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","38,928.28",0,"3,63,267.97",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,24,216.03","3,24,339.69",15-Sep-17,88160000397,33419.2584,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","35,420.46",0,"3,59,760.15",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,24,216.03","3,24,339.69",05-Aug-17,88160000397,33419.2584,Over 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","30,800.40",0,"3,55,140.09",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,24,216.03","3,24,339.69",21-Jul-18,88160000397,33419.2584,Over 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","26,351.45",0,"3,50,691.15",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,24,216.03","3,24,339.69",26-Apr-18,88160000397,33419.2584,Over 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","23,356.97",0,"3,47,696.66",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,24,216.03","3,24,339.69",09-Jan-17,88160000397,33419.2584,Over 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","19,464.14",0,"3,43,803.83",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"2,24,216.03","3,24,339.69",07-Jan-18,88160000397,33419.2584,Over 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","15,913.54",0,"3,40,253.23",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,24,216.03","3,24,339.69",21-Nov-17,88160000397,33419.2584,Over 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","11,036.81",0,"3,35,376.50",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,24,216.03","3,24,339.69",13-Aug-17,88160000397,33419.2584,Over 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.69","7,785.66",0,"3,32,125.35",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,24,216.08","3,24,339.77",13-Jul-18,88160000397,33419.2584,Over 5 Years,Over 1 mth to 3 mths,1.44655,"3,24,339.77","3,850.05",0,"3,28,189.82",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"3,458.48","12,88,818.93",08-Nov-17,88160000404,547.008,Over 5 Years,Up to 1 week,1,"3,458.48",0,547.01,"3,458.48",Up to 1 week,Over 6 mths to 1 yr
+SGD,"3,468.01","3,468.01",26-Jul-18,88160000404,547.008,Over 5 Years,Up to 1 week,1,"3,468.01","4,010.13",0,"7,478.14",Up to 1 week,Over 1 yr to 2 yrs 
+SGD,"3,593.48","3,593.48",08-Oct-17,88160000404,547.008,Over 5 Years,Up to 1 week,1,"3,593.48","4,137.22",0,"7,730.70",Up to 1 week,Over 6 mths to 1 yr
+SGD,"3,346.00","3,346.00",28-Dec-17,88160000404,547.008,Over 5 Years,Up to 1 week,1,"3,346.00","3,988.10",0,"7,334.10",Up to 1 week,Over 6 mths to 1 yr
+SGD,"3,466.67","3,466.67",02-Aug-17,88160000404,547.008,Over 5 Years,Up to 1 week,1,"3,466.67","4,114.83",0,"7,581.50",Up to 1 week,Over 6 mths to 1 yr
+SGD,"3,476.13","3,476.13",23-May-18,88160000404,547.008,Over 5 Years,Up to 1 week,1,"3,476.13","4,103.64",0,"7,579.76",Up to 1 week,Over 1 yr to 2 yrs 
+SGD,"4,063.24","4,063.24",29-Aug-17,88160000404,547.008,Over 5 Years,Up to 1 week,1,"4,063.24","3,956.00",0,"8,019.24",Up to 1 week,Over 6 mths to 1 yr
+SGD,"4,212.05","4,212.05",02-Jun-17,88160000404,547.008,Over 5 Years,Up to 1 week,1,"4,212.05","4,079.30",0,"8,291.35",Up to 1 week,Over 3 mths to 6 mths
+SGD,"4,089.58","4,089.58",24-Apr-18,88160000404,547.008,Over 5 Years,Up to 1 week,1,"4,089.58","3,930.19",0,"8,019.76",Up to 1 week,Over 1 yr to 2 yrs 
+SGD,"12,55,645.31","12,55,645.31",12-Oct-17,88160000404,547.008,Over 5 Years,Up to 1 week,1,"12,55,645.31",0,0,"12,55,645.31",Up to 1 week,Over 6 mths to 1 yr
+USD,"9,90,000.00","1,28,88,760.50",20-Nov-18,88160000424,9528.75,Up to 6 Months,Over 3 wks to 1 mth,1.44655,"14,32,084.50","2,15,528.72","13,783.81","16,47,613.22",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",05-Apr-18,88160000424,9528.75,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"14,32,084.50","2,02,719.52",0,"16,34,804.02",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",20-May-17,88160000424,9528.75,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","1,76,404.96",0,"16,08,489.46",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"9,90,000.00","14,32,084.50",07-Jun-17,88160000424,9528.75,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","1,52,039.64",0,"15,84,124.14",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"9,90,000.00","14,32,084.50",04-Feb-17,88160000424,9528.75,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","1,26,003.55",0,"15,58,088.05",Over 3 wks to 1 mth,Over 1 mth to 3 mths
+USD,"9,90,000.00","14,32,084.50",30-Jul-17,88160000424,9528.75,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","1,02,473.60",0,"15,34,558.10",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"9,90,000.00","14,32,084.50",06-May-17,88160000424,9528.75,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","75,602.13",0,"15,07,686.63",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"9,90,000.00","14,32,084.50",09-Oct-18,88160000424,9528.75,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","50,401.42",0,"14,82,485.92",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",11-Dec-18,88160000424,9528.75,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","25,200.71",0,"14,57,285.21",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"1,45,968.39","1,38,65,553.82",10-Mar-17,88160000426,5331.645,Up to 3 Months,Over 3 wks to 1 mth,1.44655,"2,11,150.57","1,58,544.90","7,712.49","3,69,695.47",Over 3 wks to 1 mth,Over 1 mth to 3 mths
+USD,"2,18,952.58","3,16,725.85",22-Apr-17,88160000426,5331.645,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"3,16,725.85","3,46,533.58",0,"6,63,259.43",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"2,18,952.58","3,16,725.85",20-May-17,88160000426,5331.645,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"3,16,725.85","3,36,635.57",0,"6,53,361.42",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"3,40,592.89","4,92,684.65",25-May-17,88160000426,5331.645,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"4,92,684.65","3,28,641.58",0,"8,21,326.23",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"3,40,592.89","4,92,684.65",21-Nov-17,88160000426,5331.645,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"4,92,684.65","3,16,206.50",0,"8,08,891.15",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"9,48,794.50","13,72,478.68",18-Aug-18,88160000426,5331.645,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"13,72,478.68","3,08,806.29",0,"16,81,284.97",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,48,794.50","13,72,478.68",28-Sep-17,88160000426,5331.645,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"13,72,478.68","2,69,130.81",0,"16,41,609.49",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"15,56,996.09","22,52,272.70",10-Apr-17,88160000426,5331.645,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"22,52,272.70","2,37,081.26",0,"24,89,353.96",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"48,65,612.80","70,38,352.19",17-Jul-17,88160000426,5331.645,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"70,38,352.19","1,76,662.64",0,"72,15,014.83",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+SGD,"9,49,007.40","9,49,007.40",05-Apr-17,88160000429,3699.696,15 days to 28 days,Over 3 wks to 1 mth,1,"9,49,007.40","1,441.48","3,699.70","9,50,448.88",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"9,90,000.00","1,43,20,845.00",17-Jan-18,88160000430,69830.7456,15 days to 28 days,Over 3 wks to 1 mth,1.44655,"14,32,084.50","39,199.34","1,01,013.67","14,71,283.84",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",17-Mar-18,88160000430,69830.7456,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"14,32,084.50","2,44,242.01",0,"16,76,326.51",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",31-Jan-17,88160000430,69830.7456,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","2,20,722.41",0,"16,52,806.91",Over 3 wks to 1 mth,Over 3 wks to 1 mth
+USD,"9,90,000.00","14,32,084.50",05-Nov-17,88160000430,69830.7456,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","1,89,966.01",0,"16,22,050.51",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"9,90,000.00","14,32,084.50",21-Feb-18,88160000430,69830.7456,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","1,67,351.01",0,"15,99,435.51",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",20-Sep-17,88160000430,69830.7456,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","1,34,182.34",0,"15,66,266.84",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"9,90,000.00","14,32,084.50",13-Jul-18,88160000430,69830.7456,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","1,11,567.34",0,"15,43,651.84",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",21-Mar-18,88160000430,69830.7456,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","81,414.00",0,"15,13,498.50",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",29-Jul-18,88160000430,69830.7456,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","54,879.07",0,"14,86,963.57",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"9,90,000.00","14,32,084.50",21-May-17,88160000430,69830.7456,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"14,32,084.50","27,138.00",0,"14,59,222.50",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"41,538.88","39,45,782.60",22-Jan-17,88160000433,1517.2542,Up to 3 Months,Over 3 wks to 1 mth,1.44655,"60,088.06","45,117.83","2,194.78","1,05,205.89",Over 3 wks to 1 mth,Over 3 wks to 1 mth
+USD,"62,308.31","90,132.09",08-Aug-17,88160000433,1517.2542,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"90,132.09","98,614.61",0,"1,88,746.70",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"62,308.31","90,132.09",02-May-17,88160000433,1517.2542,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"90,132.09","95,797.89",0,"1,85,929.97",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"96,924.04","1,40,205.47",20-Sep-17,88160000433,1517.2542,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"1,40,205.47","93,523.00",0,"2,33,728.48",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"96,924.04","1,40,205.47",18-Jul-18,88160000433,1517.2542,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"1,40,205.47","89,984.30",0,"2,30,189.77",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"2,70,002.69","3,90,572.39",30-Nov-17,88160000433,1517.2542,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"3,90,572.39","87,878.39",0,"4,78,450.77",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"2,70,002.69","3,90,572.39",02-Mar-17,88160000433,1517.2542,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"3,90,572.39","76,587.76",0,"4,67,160.14",Over 3 wks to 1 mth,Over 1 mth to 3 mths
+USD,"4,43,081.34","6,40,939.31",07-Feb-18,88160000433,1517.2542,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"6,40,939.31","67,467.27",0,"7,08,406.58",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"13,84,629.18","20,02,935.34",16-Dec-18,88160000433,1517.2542,Up to 5 Years,Over 3 wks to 1 mth,1.44655,"20,02,935.34","50,273.68",0,"20,53,209.02",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+SGD,"6,491.89","7,07,165.25",01-Feb-18,88160000437,4318.3932,Over 5 Years,Up to 1 week,1,"6,491.89",0,"4,318.39","6,491.89",Up to 1 week,Over 1 yr to 2 yrs 
+SGD,"7,00,673.36","7,00,673.36",08-Oct-18,88160000437,4318.3932,Over 5 Years,Up to 1 week,1,"7,00,673.36",0,0,"7,00,673.36",Up to 1 week,Over 1 yr to 2 yrs 
+SGD,"18,125.72","19,74,444.39",22-Jun-17,88160000438,12057.1836,Over 5 Years,Up to 1 week,1,"18,125.72",0,"12,057.18","18,125.72",Up to 1 week,Over 3 mths to 6 mths
+SGD,"19,56,318.67","19,56,318.67",24-Jun-18,88160000438,12057.1836,Over 5 Years,Up to 1 week,1,"19,56,318.67",0,0,"19,56,318.67",Up to 1 week,Over 1 yr to 2 yrs 
+SGD,"11,06,325.00","11,06,325.00",12-Jun-17,88160000439,6211.1016,Up to 2 Months,Over 3 wks to 1 mth,1,"11,06,325.00","3,365.76","6,211.10","11,09,690.76",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+SGD,"8,03,682.00","8,03,682.00",02-Apr-18,88160000440,4871.4138,Up to 2 Months,Over 1 mth to 3 mths,1,"8,03,682.00","3,076.01","4,871.41","8,06,758.01",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,01,230.00","9,01,230.00",24-Sep-18,88160000443,1674.1758,Up to 3 Months,Over 1 mth to 3 mths,1,"9,01,230.00","7,606.29","1,674.18","9,08,836.29",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,01,230.00","9,01,230.00",20-May-17,88160000444,780.6876,Up to 3 Months,Over 1 mth to 3 mths,1,"9,01,230.00","4,911.96",780.69,"9,06,141.96",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"9,01,230.00","9,01,230.00",15-Oct-17,88160000445,3469.1778,Up to 3 Months,Over 1 mth to 3 mths,1,"9,01,230.00","7,252.51","3,469.18","9,08,482.51",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"9,01,230.00","9,01,230.00",19-Jun-18,88160000446,2013.3828,Up to 3 Months,Over 1 mth to 3 mths,1,"9,01,230.00","6,368.06","2,013.38","9,07,598.06",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,01,230.00","9,01,230.00",02-Dec-18,88160000447,3869.2368,Up to 3 Months,Over 1 mth to 3 mths,1,"9,01,230.00","7,871.62","3,869.24","9,09,101.62",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"1,80,246.00","1,80,246.00",05-Oct-17,88160000448,402.6792,Up to 3 Months,Over 1 mth to 3 mths,1,"1,80,246.00","1,344.37",402.68,"1,81,590.37",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"7,25,736.00","7,25,736.00",26-Mar-17,88160000449,986.5416,Up to 3 Months,Over 1 mth to 3 mths,1,"7,25,736.00","4,863.28",986.54,"7,30,599.28",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+SGD,"9,07,170.00","9,07,170.00",15-May-17,88160000450,435.8178,Up to 3 Months,Over 1 mth to 3 mths,1,"9,07,170.00","7,923.51",435.82,"9,15,093.51",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"9,07,170.00","9,07,170.00",10-Nov-18,88160000451,707.4936,Up to 3 Months,Over 1 mth to 3 mths,1,"9,07,170.00","6,484.37",707.49,"9,13,654.37",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"3,62,868.00","3,62,868.00",25-Dec-17,88160000452,418.0572,Up to 3 Months,Over 1 mth to 3 mths,1,"3,62,868.00","2,848.90",418.06,"3,65,716.90",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+SGD,"3,62,868.00","3,62,868.00",04-Dec-18,88160000453,620.6112,Up to 3 Months,Over 1 mth to 3 mths,1,"3,62,868.00","2,848.90",620.61,"3,65,716.90",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,07,170.00","9,07,170.00",14-Jun-17,88160000454,1685.211,Up to 4 Months,Over 3 mths to 6 mths,1,"9,07,170.00","8,457.67","1,685.21","9,15,627.67",Over 3 mths to 6 mths,Over 3 mths to 6 mths
+SGD,"1,37,461.50","1,37,461.50",15-Jan-18,88160000455,66.0396,Up to 4 Months,Over 3 mths to 6 mths,1,"1,37,461.50","1,254.59",66.04,"1,38,716.09",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"9,15,882.00","9,15,882.00",25-Feb-18,88160000458,6017.4906,Up to 2 Months,Over 1 mth to 3 mths,1,"9,15,882.00","3,685.21","6,017.49","9,19,567.21",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"9,20,461.41","9,20,461.41",29-Jun-17,88160000459,6047.58,Up to 2 Months,Over 1 mth to 3 mths,1,"9,20,461.41","4,335.96","6,047.58","9,24,797.37",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"9,19,710.00","9,19,710.00",10-May-17,88160000460,5654.5698,Up to 2 Months,Over 1 mth to 3 mths,1,"9,19,710.00","4,873.98","5,654.57","9,24,583.98",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+SGD,"6,43,797.00","6,43,797.00",08-Feb-18,88160000461,3958.1982,Up to 3 Months,Over 1 mth to 3 mths,1,"6,43,797.00","4,233.14","3,958.20","6,48,030.14",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+SGD,"2,75,952.60","2,75,952.60",14-Mar-17,88160000462,1644.6144,Up to 3 Months,Over 1 mth to 3 mths,1,"2,75,952.60","1,814.46","1,644.61","2,77,767.06",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+SGD,"9,18,720.00","9,18,720.00",29-Jul-18,88160000463,5157.8538,Up to 4 Months,Over 3 mths to 6 mths,1,"9,18,720.00","8,745.68","5,157.85","9,27,465.68",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"9,48,620.97","9,48,620.97",23-Jul-18,88160000464,5170.6908,Up to 4 Months,Over 3 mths to 6 mths,1,"9,48,620.97","10,892.24","5,170.69","9,59,513.21",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"10,17,580.08","10,17,580.08",02-Nov-18,88160000465,5433.2388,Up to 5 Months,Over 3 mths to 6 mths,1,"10,17,580.08","12,183.36","5,433.24","10,29,763.44",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"13,27,071.90","13,27,071.90",16-Sep-18,88160000466,6950.8296,Up to 4 Months,Over 3 mths to 6 mths,1,"13,27,071.90","13,414.37","6,950.83","13,40,486.27",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"10,00,901.22","10,00,901.22",18-Mar-18,88160000467,4926.4842,Up to 4 Months,Over 3 mths to 6 mths,1,"10,00,901.22","10,706.72","4,926.48","10,11,607.94",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"9,18,126.00","9,18,126.00",16-Dec-18,88160000468,4437.4902,Up to 4 Months,Over 3 mths to 6 mths,1,"9,18,126.00","10,001.47","4,437.49","9,28,127.47",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"9,18,126.00","9,18,126.00",09-Jul-17,88160000469,4437.4902,Up to 5 Months,Over 3 mths to 6 mths,1,"9,18,126.00","10,992.61","4,437.49","9,29,118.61",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+SGD,"6,24,325.68","6,24,325.68",19-Aug-18,88160000470,3017.4936,Up to 5 Months,Over 3 mths to 6 mths,1,"6,24,325.68","7,658.79","3,017.49","6,31,984.47",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"8,88,145.50","8,88,145.50",28-Jun-18,88160000471,3898.9038,Up to 4 Months,Over 3 mths to 6 mths,1,"8,88,145.50","8,105.98","3,898.90","8,96,251.48",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"9,34,890.00","9,34,890.00",29-Mar-17,88160000472,4104.1044,Up to 4 Months,Over 3 mths to 6 mths,1,"9,34,890.00","9,174.85","4,104.10","9,44,064.85",Over 3 mths to 6 mths,Over 1 mth to 3 mths
+SGD,"8,22,703.20","8,22,703.20",10-Oct-17,88160000473,3611.6124,Up to 5 Months,Over 3 mths to 6 mths,1,"8,22,703.20","10,415.29","3,611.61","8,33,118.49",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+SGD,"93,654.00","93,654.00",21-Nov-18,88160000474,402.0852,Up to 5 Months,Over 3 mths to 6 mths,1,"93,654.00","1,249.98",402.09,"94,903.98",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"9,36,540.00","9,36,540.00",09-Dec-18,88160000475,4020.8322,Up to 5 Months,Over 3 mths to 6 mths,1,"9,36,540.00","12,132.18","4,020.83","9,48,672.18",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"6,08,751.00","6,08,751.00",19-Aug-17,88160000476,2613.5406,Up to 5 Months,Over 3 mths to 6 mths,1,"6,08,751.00","8,124.89","2,613.54","6,16,875.89",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+SGD,"1,90,080.00","1,90,080.00",15-Aug-18,88160000477,307.0716,Up to 6 Months,Over 3 mths to 6 mths,1,"1,90,080.00","3,059.28",307.07,"1,93,139.28",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+SGD,"2,24,40,000.00","2,24,40,000.00",25-Nov-17,88160000478,10584.3078,2 days to 7 days,Up to 1 week,1,"2,24,40,000.00","7,354.93","10,584.31","2,24,47,354.93",Up to 1 week,Over 6 mths to 1 yr
+USD,"66,000.00","95,472.30",08-May-18,88260013060,98.9934,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","5,777.62",143.2,"1,01,249.92",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,45.72,"47,802.28",25-Jun-18,88260013075,49.6122,Over 5 Years,Over 1 mth to 3 mths,1.44655,66.13,134.55,71.77,200.68,Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",29-Sep-18,88260013075,49.6122,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","2,958.31",0,"50,694.46",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,38,600.00","2,00,491.83",10-Apr-17,88260013076,207.8802,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"2,00,491.83","12,133.01",300.71,"2,12,624.84",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"33,000.00","47,736.15",28-Feb-17,88260013080,49.4934,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","2,888.81",71.59,"50,624.96",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"22,628.57","66,557.84",01-Jul-17,88260013376,22.3014,Up to 4 Months,Over 3 mths to 6 mths,1.44655,"32,733.36","1,172.39",32.26,"33,905.75",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"23,382.86","33,824.48",31-Jul-17,88260013376,22.3014,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"33,824.48","1,000.30",0,"34,824.78",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"33,942.86","99,836.76",17-Apr-18,88260013561,33.4488,Up to 4 Months,Over 3 mths to 6 mths,1.44655,"49,100.04","1,758.59",48.39,"50,858.62",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"35,074.29","50,736.72",14-Feb-18,88260013561,33.4488,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"50,736.72","1,500.44",0,"52,237.17",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"45,257.14","1,33,115.65",08-Feb-18,88260013801,44.6028,Up to 4 Months,Over 3 mths to 6 mths,1.44655,"65,466.72","2,344.78",64.52,"67,811.50",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"46,765.71","67,648.93",19-Sep-18,88260013801,44.6028,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"67,648.93","2,000.59",0,"69,649.52",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"11,88,000.00","4,52,53,870.20",29-Nov-18,88260013839,481727.1294,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"17,18,501.40","6,50,867.09","6,96,842.38","23,69,368.49",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"13,86,000.00","20,04,918.30",02-Dec-18,88260013839,481727.1294,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"20,04,918.30","6,40,221.42",0,"26,45,139.72",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"13,86,000.00","20,04,918.30",08-May-17,88260013839,481727.1294,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"20,04,918.30","6,04,026.14",0,"26,08,944.44",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"13,86,000.00","20,04,918.30",17-Mar-17,88260013839,481727.1294,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"20,04,918.30","5,74,866.26",0,"25,79,784.56",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"13,86,000.00","20,04,918.30",27-Apr-17,88260013839,481727.1294,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"20,04,918.30","5,39,642.97",0,"25,44,561.27",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"17,82,000.00","25,77,752.10",29-Jul-18,88260013839,481727.1294,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"25,77,752.10","5,22,285.90",0,"31,00,038.00",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"17,82,000.00","25,77,752.10",09-Aug-17,88260013839,481727.1294,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"25,77,752.10","4,79,055.21",0,"30,56,807.31",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"17,82,000.00","25,77,752.10",21-Aug-17,88260013839,481727.1294,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"25,77,752.10","4,56,282.73",0,"30,34,034.83",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"17,82,000.00","25,77,752.10",24-Jan-17,88260013839,481727.1294,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"25,77,752.10","3,90,603.57",0,"29,68,355.67",Over 1 mth to 3 mths,Over 3 wks to 1 mth
+USD,"19,80,000.00","28,64,169.00",29-Oct-18,88260013839,481727.1294,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"28,64,169.00","3,66,581.38",0,"32,30,750.38",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"19,80,000.00","28,64,169.00",17-Apr-17,88260013839,481727.1294,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"28,64,169.00","3,35,755.22",0,"31,99,924.22",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"19,80,000.00","28,64,169.00",23-Jul-18,88260013839,481727.1294,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"28,64,169.00","2,86,414.85",0,"31,50,583.85",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"19,80,000.00","28,64,169.00",12-Jun-18,88260013839,481727.1294,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"28,64,169.00","2,41,610.46",0,"31,05,779.46",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"23,76,000.00","34,37,002.80",30-Nov-17,88260013839,481727.1294,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"34,37,002.80","1,99,953.48",0,"36,36,956.28",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"23,76,000.00","34,37,002.80",19-May-17,88260013839,481727.1294,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"34,37,002.80","1,51,631.39",0,"35,88,634.19",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"23,76,000.00","34,37,002.80",29-Jul-18,88260013839,481727.1294,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"34,37,002.80","1,01,087.59",0,"35,38,090.39",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"23,76,000.00","34,37,002.80",18-Jun-17,88260013839,481727.1294,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"34,37,002.80","48,877.52",0,"34,85,880.32",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"1,23,750.00","11,33,733.56",05-Jan-18,88260013978,6342.7386,Up to 5 Months,Over 3 mths to 6 mths,1.44655,"1,79,010.56","21,130.23","9,175.09","2,00,140.80",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"3,30,000.00","4,77,361.50",29-Dec-17,88260013978,6342.7386,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"4,77,361.50","26,192.59",0,"5,03,554.09",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"3,30,000.00","4,77,361.50",26-Apr-17,88260013978,6342.7386,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"4,77,361.50","12,882.77",0,"4,90,244.27",Over 3 mths to 6 mths,Over 3 mths to 6 mths
+USD,"33,942.86","99,836.76",03-Jun-18,88260014083,33.4554,Up to 4 Months,Over 3 mths to 6 mths,1.44655,"49,100.04","1,758.59",48.39,"50,858.62",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"35,074.29","50,736.72",23-Mar-17,88260014083,33.4554,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"50,736.72","1,500.44",0,"52,237.17",Over 3 mths to 6 mths,Over 1 mth to 3 mths
+USD,"62,228.57","1,83,034.04",07-Sep-18,88260014165,61.3338,Up to 4 Months,Over 3 mths to 6 mths,1.44655,"90,016.74","3,224.07",88.72,"93,240.81",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"64,302.86","93,017.31",12-Jan-18,88260014165,61.3338,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"93,017.31","2,750.82",0,"95,768.12",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"7,92,000.00","3,01,69,246.80",28-Feb-17,88260014204,320395.2444,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"11,45,667.60","4,33,911.40","4,63,467.74","15,79,579.00",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"9,24,000.00","13,36,612.20",17-Sep-18,88260014204,320395.2444,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"13,36,612.20","4,26,814.28",0,"17,63,426.48",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"9,24,000.00","13,36,612.20",01-Dec-17,88260014204,320395.2444,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"13,36,612.20","4,02,684.09",0,"17,39,296.29",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"9,24,000.00","13,36,612.20",22-Jul-17,88260014204,320395.2444,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"13,36,612.20","3,83,244.17",0,"17,19,856.37",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"9,24,000.00","13,36,612.20",18-Apr-17,88260014204,320395.2444,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"13,36,612.20","3,59,761.98",0,"16,96,374.18",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"11,88,000.00","17,18,501.40",29-May-18,88260014204,320395.2444,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"17,18,501.40","3,48,190.60",0,"20,66,692.00",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"11,88,000.00","17,18,501.40",31-May-17,88260014204,320395.2444,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"17,18,501.40","3,19,370.14",0,"20,37,871.54",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"11,88,000.00","17,18,501.40",20-May-18,88260014204,320395.2444,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"17,18,501.40","3,04,188.49",0,"20,22,689.89",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"11,88,000.00","17,18,501.40",30-Aug-18,88260014204,320395.2444,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"17,18,501.40","2,60,402.38",0,"19,78,903.78",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"13,20,000.00","19,09,446.00",17-Nov-18,88260014204,320395.2444,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,09,446.00","2,44,387.59",0,"21,53,833.59",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"13,20,000.00","19,09,446.00",03-Dec-18,88260014204,320395.2444,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,09,446.00","2,23,836.81",0,"21,33,282.81",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"13,20,000.00","19,09,446.00",05-Nov-17,88260014204,320395.2444,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"19,09,446.00","1,90,943.23",0,"21,00,389.23",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"13,20,000.00","19,09,446.00",15-Dec-18,88260014204,320395.2444,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"19,09,446.00","1,61,073.64",0,"20,70,519.64",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"15,84,000.00","22,91,335.20",28-May-17,88260014204,320395.2444,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"22,91,335.20","1,33,302.32",0,"24,24,637.52",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"15,84,000.00","22,91,335.20",16-Sep-17,88260014204,320395.2444,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"22,91,335.20","1,01,087.59",0,"23,92,422.79",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"15,84,000.00","22,91,335.20",20-Dec-17,88260014204,320395.2444,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"22,91,335.20","67,391.73",0,"23,58,726.93",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"15,84,000.00","22,91,335.20",01-Nov-18,88260014204,320395.2444,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"22,91,335.20","32,585.01",0,"23,23,920.21",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,48,553.06","9,72,374.63",09-Jul-17,88260014298,15108.225,Up to 2 Months,Over 3 wks to 1 mth,1.44655,"2,14,889.43","4,536.34","21,854.80","2,19,425.76",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"1,48,553.06","2,14,889.43",08-Oct-18,88260014298,15108.225,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"2,14,889.43","20,519.02",0,"2,35,408.45",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"1,85,691.32","2,68,611.77",18-Apr-17,88260014298,15108.225,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"2,68,611.77","14,942.99",0,"2,83,554.77",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"1,89,405.14","2,73,984.00",18-Oct-18,88260014298,15108.225,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"2,73,984.00","7,421.77",0,"2,81,405.78",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"65,815.86","18,08,919.40",28-Oct-17,88260014394,552.0042,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"95,205.93","23,427.46",798.5,"1,18,633.40",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"65,815.86","95,205.93",10-Jun-18,88260014394,552.0042,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"95,205.93","22,951.07",0,"1,18,157.01",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,815.86","95,205.93",17-Nov-17,88260014394,552.0042,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"95,205.93","21,676.02",0,"1,16,881.95",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"65,815.86","95,205.93",28-Apr-18,88260014394,552.0042,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"95,205.93","20,176.78",0,"1,15,382.71",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,815.86","95,205.93",09-Oct-17,88260014394,552.0042,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","18,705.56",0,"1,13,911.49",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"65,815.86","95,205.93",25-Nov-17,88260014394,552.0042,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","17,850.85",0,"1,13,056.79",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"65,815.86","95,205.93",13-Oct-18,88260014394,552.0042,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","16,393.65",0,"1,11,599.58",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,815.86","95,205.93",26-Jun-18,88260014394,552.0042,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","15,637.03",0,"1,10,842.96",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,815.86","95,205.93",01-Jan-17,88260014394,552.0042,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","13,409.18",0,"1,08,615.11",Over 1 mth to 3 mths,Up to 1 week
+USD,"65,815.86","95,205.93",19-Mar-17,88260014394,552.0042,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","12,610.52",0,"1,07,816.45",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"65,815.86","95,205.93",14-Jun-18,88260014394,552.0042,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","11,727.79",0,"1,06,933.72",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,815.86","95,205.93",14-Feb-17,88260014394,552.0042,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","10,200.53",0,"1,05,406.46",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"65,815.86","95,205.93",25-May-18,88260014394,552.0042,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","8,827.39",0,"1,04,033.32",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,815.86","95,205.93",26-Feb-18,88260014394,552.0042,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","7,482.28",0,"1,02,688.21",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,815.86","95,205.93",04-Nov-18,88260014394,552.0042,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","6,305.30",0,"1,01,511.24",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,815.86","95,205.93",31-Aug-17,88260014394,552.0042,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","5,100.31",0,"1,00,306.24",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"65,815.86","95,205.93",15-Aug-18,88260014394,552.0042,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","3,741.18",0,"98,947.11",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,815.86","95,205.93",25-May-17,88260014394,552.0042,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,205.93","2,550.20",0,"97,756.13",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"65,820.48","95,212.62",14-Oct-17,88260014394,552.0042,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,212.62","1,275.14",0,"96,487.76",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,51,530.59","17,97,411.99",10-Mar-17,88260014409,17411.4864,8 days to 14 days,Over 3 mths to 6 mths,1.44655,"2,19,196.58","2,663.62","25,186.59","2,21,860.20",Over 3 mths to 6 mths,Over 1 mth to 3 mths
+USD,"1,51,530.59","2,19,196.58",03-Jan-17,88260014409,17411.4864,Up to 4 Months,Over 3 mths to 6 mths,1.44655,"2,19,196.58","22,608.26",0,"2,41,804.84",Over 3 mths to 6 mths,Up to 1 week
+USD,"1,51,530.59","2,19,196.58",21-Mar-17,88260014409,17411.4864,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"2,19,196.58","20,139.54",0,"2,39,336.12",Over 3 mths to 6 mths,Over 1 mth to 3 mths
+USD,"1,57,591.82","2,27,964.45",21-Nov-18,88260014409,17411.4864,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"2,27,964.45","17,641.95",0,"2,45,606.40",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"1,57,591.82","2,27,964.45",11-May-18,88260014409,17411.4864,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"2,27,964.45","13,362.84",0,"2,41,327.29",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"1,57,591.82","2,27,964.45",27-Oct-17,88260014409,17411.4864,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"2,27,964.45","10,134.74",0,"2,38,099.19",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"1,57,591.82","2,27,964.45",06-Mar-18,88260014409,17411.4864,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"2,27,964.45","6,756.49",0,"2,34,720.94",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"1,57,591.81","2,27,964.43",21-Oct-17,88260014409,17411.4864,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"2,27,964.43","3,002.88",0,"2,30,967.32",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"1,65,000.00","31,02,849.75",02-Jan-17,88260014428,22812.9858,Up to 4 Months,Over 3 wks to 1 mth,1.44655,"2,38,680.75","61,004.10","33,000.12","2,99,684.85",Over 3 wks to 1 mth,Up to 1 week
+USD,"1,65,000.00","2,38,680.75",03-Oct-17,88260014428,22812.9858,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"2,38,680.75","88,284.94",0,"3,26,965.69",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"1,65,000.00","2,38,680.75",11-May-17,88260014428,22812.9858,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"2,38,680.75","78,740.62",0,"3,17,421.37",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"16,50,000.00","23,86,807.50",18-Sep-17,88260014428,22812.9858,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"23,86,807.50","72,775.43",0,"24,59,582.93",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"35,869.57","5,08,493.73",29-May-18,88260014471,1965.3612,Up to 2 Months,Over 3 mths to 6 mths,1.44655,"51,887.12","5,264.92","2,842.99","57,152.05",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"35,869.57","51,887.12",05-Oct-18,88260014471,1965.3612,Up to 6 Months,Over 3 mths to 6 mths,1.44655,"51,887.12","7,291.85",0,"59,178.98",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"35,869.57","51,887.12",13-Aug-17,88260014471,1965.3612,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"51,887.12","6,463.23",0,"58,350.36",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"43,043.48","62,264.54",02-Jan-18,88260014471,1965.3612,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"62,264.54","5,572.70",0,"67,837.24",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"43,043.48","62,264.54",21-Aug-18,88260014471,1965.3612,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"62,264.54","4,538.29",0,"66,802.83",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"1,57,826.05","2,28,303.27",15-May-18,88260014471,1965.3612,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"2,28,303.27","3,405.54",0,"2,31,708.81",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"41,294.80","3,46,462.94",01-Nov-18,88260014530,6604.9962,2 days to 7 days,Up to 1 week,1.44655,"59,734.99",344.6,"9,554.46","60,079.59",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"49,553.76","71,681.99",04-Jun-18,88260014530,6604.9962,Up to 1 Year,Up to 1 week,1.44655,"71,681.99","8,555.49",0,"80,237.48",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"49,553.76","71,681.99",22-Apr-18,88260014530,6604.9962,Up to 3 Years,Up to 1 week,1.44655,"71,681.99","6,594.86",0,"78,276.84",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"49,553.76","71,681.99",04-Nov-17,88260014530,6604.9962,Up to 3 Years,Up to 1 week,1.44655,"71,681.99","4,230.21",0,"75,912.20",Up to 1 week,Over 6 mths to 1 yr
+USD,"49,553.76","71,681.99",10-Nov-17,88260014530,6604.9962,Up to 3 Years,Up to 1 week,1.44655,"71,681.99","2,186.40",0,"73,868.39",Up to 1 week,Over 6 mths to 1 yr
+USD,"5,739.13","81,359.00",10-Aug-18,88260014587,314.457,Up to 2 Months,Over 3 mths to 6 mths,1.44655,"8,301.94",842.39,454.88,"9,144.32",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"5,739.13","8,301.94",23-Dec-18,88260014587,314.457,Up to 6 Months,Over 3 mths to 6 mths,1.44655,"8,301.94","1,166.70",0,"9,468.63",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"5,739.13","8,301.94",23-Sep-17,88260014587,314.457,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"8,301.94","1,034.12",0,"9,336.05",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"6,886.95","9,962.32",22-Jan-17,88260014587,314.457,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"9,962.32",891.63,0,"10,853.96",Over 3 mths to 6 mths,Over 3 wks to 1 mth
+USD,"6,886.95","9,962.32",23-Dec-18,88260014587,314.457,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"9,962.32",726.13,0,"10,688.45",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"25,252.18","36,528.54",23-Jun-18,88260014587,314.457,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"36,528.54",544.89,0,"37,073.43",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"32,877.57","2,75,842.48",25-May-17,88260014622,5258.682,2 days to 7 days,Up to 1 week,1.44655,"47,559.05",274.36,"7,606.95","47,833.41",Up to 1 week,Over 3 mths to 6 mths
+USD,"39,453.08","57,070.86",07-Oct-18,88260014622,5258.682,Up to 1 Year,Up to 1 week,1.44655,"57,070.86","6,811.60",0,"63,882.46",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"39,453.08","57,070.86",19-Nov-18,88260014622,5258.682,Up to 3 Years,Up to 1 week,1.44655,"57,070.86","5,250.61",0,"62,321.47",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"39,453.08","57,070.86",10-Mar-18,88260014622,5258.682,Up to 3 Years,Up to 1 week,1.44655,"57,070.86","3,367.96",0,"60,438.82",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"39,453.08","57,070.86",01-Oct-17,88260014622,5258.682,Up to 3 Years,Up to 1 week,1.44655,"57,070.86","1,740.74",0,"58,811.60",Up to 1 week,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",07-Jun-17,88260014636,80.2032,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","4,716.28",116.02,"52,452.43",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"66,000.00","95,472.30",05-Feb-18,88260014638,160.4856,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","9,432.57",232.15,"1,04,904.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,000.00","95,472.30",25-Dec-17,88260014640,160.413,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","9,432.57",232.05,"1,04,904.87",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",06-Jan-18,88260014643,80.2032,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","4,716.28",116.02,"52,452.43",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"28,380.00","41,053.09",29-Jul-18,88260014644,68.9766,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"41,053.09","4,056.00",99.78,"45,109.09",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",17-Sep-17,88260014645,80.2032,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","4,716.28",116.02,"52,452.43",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",26-Jan-18,88260014646,80.2758,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","4,716.28",116.12,"52,452.43",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",17-Oct-18,88260014647,80.2032,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","4,716.28",116.02,"52,452.43",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",04-Apr-17,88260014648,80.2494,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","4,716.28",116.08,"52,452.43",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"66,000.00","95,472.30",21-Nov-18,88260014649,160.4064,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","9,432.57",232.04,"1,04,904.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"15,948.17","23,069.83",30-Jun-18,88260014651,38.7618,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"23,069.83","2,279.28",56.07,"25,349.11",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,000.00","95,472.30",24-Aug-17,88260014652,160.4064,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","9,432.57",232.04,"1,04,904.87",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",28-Nov-18,88260014653,80.2428,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","4,716.28",116.08,"52,452.43",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"34,984.29","2,93,517.84",10-Apr-18,88260014725,5595.645,2 days to 7 days,Up to 1 week,1.44655,"50,606.52",291.94,"8,094.38","50,898.46",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"41,981.15","60,727.83",11-Jan-17,88260014725,5595.645,Up to 1 Year,Up to 1 week,1.44655,"60,727.83","7,248.07",0,"67,975.90",Up to 1 week, Over 1 wk to 2 wks
+USD,"41,981.15","60,727.83",27-Mar-18,88260014725,5595.645,Up to 3 Years,Up to 1 week,1.44655,"60,727.83","5,587.06",0,"66,314.89",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"41,981.15","60,727.83",07-Aug-18,88260014725,5595.645,Up to 3 Years,Up to 1 week,1.44655,"60,727.83","3,583.77",0,"64,311.60",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"41,981.15","60,727.83",27-Jun-18,88260014725,5595.645,Up to 3 Years,Up to 1 week,1.44655,"60,727.83","1,852.29",0,"62,580.11",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"1,44,375.00","1,11,13,572.42",24-Jun-18,88260014746,123135.8502,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"2,08,845.66","1,54,190.51","1,78,122.16","3,63,036.17",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,54,687.50","2,23,763.20",01-Jul-18,88260014746,123135.8502,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"2,23,763.20","3,37,219.27",0,"5,60,982.47",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,65,000.00","2,38,680.75",20-Jul-17,88260014746,123135.8502,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,38,680.75","3,21,372.57",0,"5,60,053.32",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,37,187.50","3,43,103.58",13-Feb-18,88260014746,123135.8502,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,43,103.58","3,19,427.58",0,"6,62,531.16",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"69,81,562.50","1,00,99,179.23",07-Sep-18,88260014746,123135.8502,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,00,99,179.23","3,03,867.64",0,"1,04,03,046.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"64,077.32","5,37,608.06",06-Apr-18,88260014760,10249.008,2 days to 7 days,Up to 1 week,1.44655,"92,691.05",534.71,"14,825.70","93,225.76",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"76,892.79","1,11,229.26",31-Jan-18,88260014760,10249.008,Up to 1 Year,Up to 1 week,1.44655,"1,11,229.26","13,275.59",0,"1,24,504.85",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"76,892.79","1,11,229.26",08-Nov-17,88260014760,10249.008,Up to 3 Years,Up to 1 week,1.44655,"1,11,229.26","10,233.27",0,"1,21,462.53",Up to 1 week,Over 6 mths to 1 yr
+USD,"76,892.79","1,11,229.26",07-Jun-17,88260014760,10249.008,Up to 3 Years,Up to 1 week,1.44655,"1,11,229.26","6,564.04",0,"1,17,793.30",Up to 1 week,Over 3 mths to 6 mths
+USD,"76,892.77","1,11,229.24",14-Feb-18,88260014760,10249.008,Up to 3 Years,Up to 1 week,1.44655,"1,11,229.24","3,392.65",0,"1,14,621.89",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"1,52,291.30","1,17,22,946.30",23-May-17,88260014884,129887.5776,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"2,20,296.98","1,62,645.01","1,87,888.88","3,82,941.98",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"1,63,169.25","2,36,032.47",25-May-17,88260014884,129887.5776,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"2,36,032.47","3,55,709.51",0,"5,91,741.98",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"1,74,047.20","2,51,767.98",11-May-18,88260014884,129887.5776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,51,767.98","3,38,993.91",0,"5,90,761.89",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,50,192.85","3,61,916.46",10-Jun-18,88260014884,129887.5776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,61,916.46","3,36,942.27",0,"6,98,858.73",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"73,64,372.06","1,06,52,932.41",27-Jun-18,88260014884,129887.5776,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,06,52,932.41","3,20,529.16",0,"1,09,73,461.57",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"38,916.67","3,26,510.46",02-Mar-17,88260014893,6224.6184,2 days to 7 days,Up to 1 week,1.44655,"56,294.91",324.75,"9,004.22","56,619.66",Up to 1 week,Over 1 mth to 3 mths
+USD,"46,700.00","67,553.89",20-Jun-17,88260014893,6224.6184,Up to 1 Year,Up to 1 week,1.44655,"67,553.89","8,062.79",0,"75,616.68",Up to 1 week,Over 3 mths to 6 mths
+USD,"46,700.00","67,553.89",15-Apr-18,88260014893,6224.6184,Up to 3 Years,Up to 1 week,1.44655,"67,553.89","6,215.06",0,"73,768.95",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"46,700.00","67,553.89",01-Oct-18,88260014893,6224.6184,Up to 3 Years,Up to 1 week,1.44655,"67,553.89","3,986.60",0,"71,540.49",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"46,700.00","67,553.89",13-Jul-18,88260014893,6224.6184,Up to 3 Years,Up to 1 week,1.44655,"67,553.89","2,060.49",0,"69,614.38",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"36,857.04","10,12,993.56",05-Nov-17,88260014914,309.1242,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"53,315.55","13,119.36",447.16,"66,434.91",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"36,857.04","53,315.55",28-Dec-17,88260014914,309.1242,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"53,315.55","12,852.58",0,"66,168.13",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"36,857.04","53,315.55",07-Oct-17,88260014914,309.1242,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"53,315.55","12,138.55",0,"65,454.10",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"36,857.04","53,315.55",04-Jul-17,88260014914,309.1242,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"53,315.55","11,298.97",0,"64,614.52",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"36,857.04","53,315.55",16-Mar-18,88260014914,309.1242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","10,475.08",0,"63,790.64",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,857.04","53,315.55",24-Jun-18,88260014914,309.1242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","9,996.45",0,"63,312.00",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,857.04","53,315.55",02-Jul-17,88260014914,309.1242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","9,180.41",0,"62,495.96",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"36,857.04","53,315.55",16-Jan-18,88260014914,309.1242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","8,756.69",0,"62,072.25",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,857.04","53,315.55",24-Jun-18,88260014914,309.1242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","7,509.10",0,"60,824.65",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,857.04","53,315.55",06-Dec-17,88260014914,309.1242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","7,061.85",0,"60,377.40",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"36,857.04","53,315.55",08-Jan-18,88260014914,309.1242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","6,567.51",0,"59,883.07",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,857.04","53,315.55",31-Aug-18,88260014914,309.1242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","5,712.24",0,"59,027.79",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,857.04","53,315.55",05-Jun-18,88260014914,309.1242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","4,943.28",0,"58,258.84",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,857.04","53,315.55",15-Apr-17,88260014914,309.1242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","4,190.02",0,"57,505.57",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"36,857.04","53,315.55",09-Dec-18,88260014914,309.1242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","3,530.91",0,"56,846.46",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,857.04","53,315.55",06-Aug-18,88260014914,309.1242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","2,856.11",0,"56,171.66",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,857.04","53,315.55",16-Aug-17,88260014914,309.1242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","2,095.00",0,"55,410.55",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"36,857.04","53,315.55",19-Nov-18,88260014914,309.1242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"53,315.55","1,428.04",0,"54,743.59",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,855.72","53,313.64",11-Feb-17,88260014914,309.1242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"53,313.64",714.01,0,"54,027.65",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"11,481.47","96,329.42",09-Feb-18,88260014948,1836.4368,2 days to 7 days,Up to 1 week,1.44655,"16,608.52",95.81,"2,656.50","16,704.33",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"13,777.76","19,930.22",05-Mar-18,88260014948,1836.4368,Up to 1 Year,Up to 1 week,1.44655,"19,930.22","2,378.74",0,"22,308.96",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"13,777.76","19,930.22",05-Nov-17,88260014948,1836.4368,Up to 3 Years,Up to 1 week,1.44655,"19,930.22","1,833.61",0,"21,763.84",Up to 1 week,Over 6 mths to 1 yr
+USD,"13,777.76","19,930.22",01-Jun-18,88260014948,1836.4368,Up to 3 Years,Up to 1 week,1.44655,"19,930.22","1,176.15",0,"21,106.38",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"13,777.76","19,930.22",30-Jul-18,88260014948,1836.4368,Up to 3 Years,Up to 1 week,1.44655,"19,930.22",607.9,0,"20,538.12",Up to 1 week,Over 1 yr to 2 yrs 
+USD,"21,221.86","1,38,910.66",16-Aug-18,88260015113,2158.3188,Up to 2 Months,Over 3 wks to 1 mth,1.44655,"30,698.49",648.05,"3,122.12","31,346.54",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"21,221.86","30,698.49",09-Oct-18,88260015113,2158.3188,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"30,698.49","2,931.29",0,"33,629.78",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"26,527.33","38,373.11",13-Jan-17,88260015113,2158.3188,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"38,373.11","2,134.71",0,"40,507.83",Over 3 wks to 1 mth, Over 1 wk to 2 wks
+USD,"27,057.87","39,140.57",11-Jun-18,88260015113,2158.3188,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"39,140.57","1,060.25",0,"40,200.82",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"21,221.86","1,38,910.66",09-Dec-17,88260015186,2158.3122,Up to 2 Months,Over 3 wks to 1 mth,1.44655,"30,698.49",648.05,"3,122.11","31,346.54",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"21,221.86","30,698.49",03-Aug-17,88260015186,2158.3122,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"30,698.49","2,931.29",0,"33,629.78",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"26,527.33","38,373.11",03-Dec-17,88260015186,2158.3122,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"38,373.11","2,134.71",0,"40,507.83",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"27,057.87","39,140.57",01-Feb-17,88260015186,2158.3122,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"39,140.57","1,060.25",0,"40,200.82",Over 3 wks to 1 mth,Over 1 mth to 3 mths
+USD,"34,925.72","2,28,611.11",09-Apr-17,88260015285,3552.0342,Up to 2 Months,Over 3 wks to 1 mth,1.44655,"50,521.79","1,066.52","5,138.20","51,588.31",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"34,925.72","50,521.79",10-Aug-18,88260015285,3552.0342,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"50,521.79","4,824.15",0,"55,345.94",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"43,657.15","63,152.24",27-Jun-17,88260015285,3552.0342,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"63,152.24","3,513.19",0,"66,665.43",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"44,530.29","64,415.28",05-Dec-18,88260015285,3552.0342,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"64,415.28","1,744.90",0,"66,160.19",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"1,26,186.19","17,52,332.40",16-May-18,88260015561,6908.8998,Up to 5 Months,Over 3 mths to 6 mths,1.44655,"1,82,534.63","44,302.39","9,994.07","2,26,837.02",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"2,58,681.68","3,74,195.98",05-Nov-17,88260015561,6908.8998,Up to 1 Year,Over 3 mths to 6 mths,1.44655,"3,74,195.98","47,625.07",0,"4,21,821.06",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"2,58,681.68","3,74,195.98",30-Sep-18,88260015561,6908.8998,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"3,74,195.98","36,877.13",0,"4,11,073.11",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"2,83,918.92","4,10,702.91",15-Jun-18,88260015561,6908.8998,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"4,10,702.91","24,920.10",0,"4,35,623.01",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"2,83,918.91","4,10,702.89",19-Jan-18,88260015561,6908.8998,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"4,10,702.89","12,529.27",0,"4,23,232.16",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"5,08,035.00","29,39,592.12",20-May-18,88260015607,10194.9144,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"7,34,898.03","2,45,718.31","14,747.45","9,80,616.34",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"5,08,035.00","7,34,898.03",11-Jul-17,88260015607,10194.9144,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"7,34,898.03","39,000.64",0,"7,73,898.67",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"5,08,035.00","7,34,898.03",19-Mar-18,88260015607,10194.9144,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"7,34,898.03","26,000.43",0,"7,60,898.45",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"5,08,035.00","7,34,898.03",25-Nov-17,88260015607,10194.9144,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"7,34,898.03","12,857.35",0,"7,47,755.38",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"48,024.90","23,06,417.91",25-Nov-18,88260015696,1360.2996,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"69,470.42","33,048.57","1,967.74","1,02,518.99",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"48,024.90","69,470.42",14-Sep-17,88260015696,1360.2996,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"69,470.42","33,916.69",0,"1,03,387.11",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"72,037.35","1,04,205.63",06-Jun-18,88260015696,1360.2996,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"1,04,205.63","32,502.24",0,"1,36,707.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"72,037.35","1,04,205.63",05-Mar-18,88260015696,1360.2996,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"1,04,205.63","30,939.63",0,"1,35,145.26",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"72,037.35","1,04,205.63",21-Aug-18,88260015696,1360.2996,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,04,205.63","29,050.61",0,"1,33,256.24",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"72,037.35","1,04,205.63",18-Jul-18,88260015696,1360.2996,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,04,205.63","28,123.47",0,"1,32,329.09",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"81,642.33","1,18,099.71",09-Nov-18,88260015696,1360.2996,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,18,099.71","26,543.50",0,"1,44,643.21",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"81,642.33","1,18,099.71",10-Dec-17,88260015696,1360.2996,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,18,099.71","24,480.85",0,"1,42,580.57",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"81,642.33","1,18,099.71",22-Jan-17,88260015696,1360.2996,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,18,099.71","22,457.57",0,"1,40,557.28",Over 1 mth to 3 mths,Over 3 wks to 1 mth
+USD,"81,642.33","1,18,099.71",18-May-17,88260015696,1360.2996,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,18,099.71","21,171.60",0,"1,39,271.31",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"1,08,056.03","1,56,308.44",30-Jan-18,88260015696,1360.2996,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,56,308.44","19,380.97",0,"1,75,689.41",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"7,75,602.14","11,21,947.27",08-Oct-18,88260015696,1360.2996,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"11,21,947.27","16,824.08",0,"11,38,771.34",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,000.00","95,472.30",20-May-17,88260015728,316.3314,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,116.77",457.59,"1,06,589.07",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"66,000.00","95,472.30",26-Feb-18,88260015729,316.3314,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,116.77",457.59,"1,06,589.07",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",07-Nov-17,88260015730,158.1624,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,558.38",228.79,"53,294.53",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",01-Apr-18,88260015792,142.1178,Over 5 Years, Over 1 wk to 2 wks,1.44655,"47,736.15","5,584.86",205.58,"53,321.01", Over 1 wk to 2 wks,Over 1 yr to 2 yrs 
+USD,"5,64,465.00","32,66,107.38",20-Apr-18,88260015805,11327.316,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"8,16,526.85","2,73,011.48","16,385.53","10,89,538.32",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"5,64,465.00","8,16,526.85",13-Sep-17,88260015805,11327.316,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"8,16,526.85","43,332.64",0,"8,59,859.48",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"5,64,465.00","8,16,526.85",30-Mar-18,88260015805,11327.316,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"8,16,526.85","28,888.42",0,"8,45,415.27",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"5,64,465.00","8,16,526.85",06-Jul-17,88260015805,11327.316,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"8,16,526.85","14,285.48",0,"8,30,812.33",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"17,441.42","1,14,165.28",03-Jan-17,88260015869,1773.8358,Up to 2 Months,Over 3 wks to 1 mth,1.44655,"25,229.89",532.61,"2,565.94","25,762.50",Over 3 wks to 1 mth,Up to 1 week
+USD,"17,441.42","25,229.89",16-May-17,88260015869,1773.8358,Up to 1 Year,Over 3 wks to 1 mth,1.44655,"25,229.89","2,409.11",0,"27,639.00",Over 3 wks to 1 mth,Over 3 mths to 6 mths
+USD,"21,801.79","31,537.37",22-Aug-17,88260015869,1773.8358,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"31,537.37","1,754.44",0,"33,291.81",Over 3 wks to 1 mth,Over 6 mths to 1 yr
+USD,"22,237.82","32,168.12",14-May-18,88260015869,1773.8358,Up to 3 Years,Over 3 wks to 1 mth,1.44655,"32,168.12",871.38,0,"33,039.50",Over 3 wks to 1 mth,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",02-Apr-17,88260015874,104.9928,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,643.12",151.88,"53,379.27",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"66,000.00","95,472.30",29-Dec-17,88260015875,209.9856,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,286.24",303.75,"1,06,758.54",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",06-Dec-17,88260015876,104.9928,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,643.12",151.88,"53,379.27",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",17-Apr-17,88260015877,104.9928,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,643.12",151.88,"53,379.27",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"66,000.00","95,472.30",01-Feb-18,88260015879,210.0714,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,286.24",303.88,"1,06,758.54",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",28-Jun-17,88260015884,104.9928,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,643.12",151.88,"53,379.27",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"15,019.12","7,21,299.95",04-Mar-18,88260015901,425.4162,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"21,725.91","10,335.48",615.39,"32,061.39",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"15,019.12","21,725.91",13-Sep-18,88260015901,425.4162,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"21,725.91","10,606.97",0,"32,332.88",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,528.67","32,588.85",17-Dec-17,88260015901,425.4162,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"32,588.85","10,164.62",0,"42,753.47",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"22,528.67","32,588.85",02-Oct-17,88260015901,425.4162,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"32,588.85","9,675.94",0,"42,264.79",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"22,528.67","32,588.85",16-May-18,88260015901,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"32,588.85","9,085.17",0,"41,674.02",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,528.67","32,588.85",12-Dec-18,88260015901,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"32,588.85","8,795.22",0,"41,384.07",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"25,532.50","36,934.03",20-May-18,88260015901,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"36,934.03","8,301.11",0,"45,235.14",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"25,532.50","36,934.03",08-Mar-17,88260015901,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"36,934.03","7,656.04",0,"44,590.08",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"25,532.50","36,934.03",18-Aug-18,88260015901,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"36,934.03","7,023.29",0,"43,957.32",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"25,532.50","36,934.03",14-Jun-17,88260015901,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"36,934.03","6,621.12",0,"43,555.15",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"33,793.01","48,883.28",03-Aug-17,88260015901,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"48,883.28","6,061.13",0,"54,944.40",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,42,558.73","3,50,873.33",21-Jul-18,88260015901,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,50,873.33","5,261.49",0,"3,56,134.83",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"95,700.00","1,38,434.84",23-Sep-17,88260015922,245.7576,Over 5 Years,Over 1 mth to 3 mths,1.44655,"1,38,434.84","16,457.21",355.5,"1,54,892.04",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",03-Jun-17,88260015924,84.744,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,674.90",122.59,"53,411.05",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"66,000.00","95,472.30",27-Jun-18,88260015927,169.488,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,349.80",245.17,"1,06,822.10",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,000.00","95,472.30",15-Dec-17,88260015932,169.488,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,349.80",245.17,"1,06,822.10",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",24-Mar-17,88260015946,84.744,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,674.90",122.59,"53,411.05",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"66,000.00","95,472.30",08-May-18,88260015948,169.488,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,349.80",245.17,"1,06,822.10",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",23-Nov-17,88260015991,104.9862,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,643.12",151.87,"53,379.27",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"12,988.46","12,92,031.17",07-Mar-17,88260016028,301.4154,Due on Value Day,Over 1 mth to 3 mths,1.44655,"18,788.46","19,159.28",436.01,"37,947.75",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"21,082.46","30,496.83",09-Mar-17,88260016028,301.4154,Due on Value Day,Over 1 mth to 3 mths,1.44655,"30,496.83",0,0,"30,496.83",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"31,623.69","45,745.25",05-Sep-17,88260016028,301.4154,Up to 4 Months,Over 1 mth to 3 mths,1.44655,"45,745.25","18,635.50",0,"64,380.75",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"31,623.69","45,745.25",30-May-17,88260016028,301.4154,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"45,745.25","17,949.53",0,"63,694.78",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"31,623.69","45,745.25",10-Mar-17,88260016028,301.4154,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"45,745.25","17,263.56",0,"63,008.81",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"31,623.69","45,745.25",29-Jan-17,88260016028,301.4154,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"45,745.25","16,577.59",0,"62,322.84",Over 1 mth to 3 mths,Over 3 wks to 1 mth
+USD,"31,623.69","45,745.25",20-Jan-18,88260016028,301.4154,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"45,745.25","15,715.05",0,"61,460.30",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"84,329.84","1,21,987.33",15-Jan-18,88260016028,301.4154,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,21,987.33","15,374.61",0,"1,37,361.93",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"84,329.84","1,21,987.33",16-Sep-17,88260016028,301.4154,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,21,987.33","13,376.40",0,"1,35,363.73",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,21,224.14","1,75,356.78",29-Apr-17,88260016028,301.4154,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,75,356.78","11,932.06",0,"1,87,288.84",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"1,31,765.37","1,90,605.20",07-Jun-17,88260016028,301.4154,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,90,605.20","8,620.35",0,"1,99,225.55",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"1,37,035.98","1,98,229.40",16-Sep-17,88260016028,301.4154,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,98,229.40","6,059.40",0,"2,04,288.80",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,42,306.60","2,05,853.61",06-Jan-18,88260016028,301.4154,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,05,853.61","3,189.76",0,"2,09,043.37",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",30-Apr-17,88260016081,25.0734,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,767.58",36.27,"53,503.73",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"99,000.00","1,43,208.45",25-Jul-18,88260016085,75.2202,Over 5 Years,Over 1 mth to 3 mths,1.44655,"1,43,208.45","17,302.75",108.81,"1,60,511.20",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,66,980.00","2,41,544.92",23-Aug-18,88260016086,126.8718,Over 5 Years,Over 1 mth to 3 mths,1.44655,"2,41,544.92","29,183.97",183.53,"2,70,728.89",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"69,300.00","1,00,245.92",01-Nov-18,88260016087,52.6548,Over 5 Years,Over 1 mth to 3 mths,1.44655,"1,00,245.92","12,111.92",76.17,"1,12,357.84",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,660.00","48,690.87",01-Jan-18,88260016088,25.575,Over 5 Years,Over 1 mth to 3 mths,1.44655,"48,690.87","5,882.93",37,"54,573.81",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,000.00","95,472.30",02-Aug-18,88260016089,50.1468,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,535.17",72.54,"1,07,007.47",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"44,220.00","63,966.44",12-May-17,88260016094,33.594,Over 5 Years,Over 1 mth to 3 mths,1.44655,"63,966.44","7,728.56",48.6,"71,695.00",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"15,019.12","7,21,299.95",21-Nov-18,88260016144,425.4162,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"21,725.91","10,335.48",615.39,"32,061.39",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"15,019.12","21,725.91",21-Oct-18,88260016144,425.4162,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"21,725.91","10,606.97",0,"32,332.88",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,528.67","32,588.85",29-Jan-17,88260016144,425.4162,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"32,588.85","10,164.62",0,"42,753.47",Over 1 mth to 3 mths,Over 3 wks to 1 mth
+USD,"22,528.67","32,588.85",07-Sep-18,88260016144,425.4162,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"32,588.85","9,675.94",0,"42,264.79",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,528.67","32,588.85",05-Feb-18,88260016144,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"32,588.85","9,085.17",0,"41,674.02",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,528.67","32,588.85",14-Oct-18,88260016144,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"32,588.85","8,795.22",0,"41,384.07",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"25,532.50","36,934.03",12-Feb-17,88260016144,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"36,934.03","8,301.11",0,"45,235.14",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"25,532.50","36,934.03",22-Jul-18,88260016144,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"36,934.03","2,466.95",0,"39,400.98",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"25,532.50","36,934.03",14-May-18,88260016144,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"36,934.03","2,367.40",0,"39,301.43",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"25,532.50","36,934.03",04-Jun-18,88260016144,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"36,934.03","2,110.03",0,"39,044.06",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,793.01","48,883.28",11-Nov-18,88260016144,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"48,883.28","18,183.38",0,"67,066.66",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,42,558.73","3,50,873.33",28-Mar-18,88260016144,425.4162,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,50,873.33","5,261.49",0,"3,56,134.83",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,493.78","22,37,576.17",04-Mar-18,88260016201,522.0138,Due on Value Day,Over 1 mth to 3 mths,1.44655,"32,538.38","33,180.59",755.12,"65,718.97",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"36,511.20","52,815.28",17-Aug-17,88260016201,522.0138,Due on Value Day,Over 1 mth to 3 mths,1.44655,"52,815.28",0,0,"52,815.28",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"54,766.80","79,222.91",19-Jun-17,88260016201,522.0138,Up to 4 Months,Over 1 mth to 3 mths,1.44655,"79,222.91","32,273.49",0,"1,11,496.41",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"54,766.80","79,222.91",27-Aug-18,88260016201,522.0138,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"79,222.91","31,085.51",0,"1,10,308.42",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"54,766.80","79,222.91",02-Dec-18,88260016201,522.0138,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"79,222.91","29,897.53",0,"1,09,120.44",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"54,766.80","79,222.91",31-Mar-18,88260016201,522.0138,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"79,222.91","28,709.55",0,"1,07,932.46",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"54,766.80","79,222.91",27-Mar-18,88260016201,522.0138,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"79,222.91","27,215.77",0,"1,06,438.69",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,46,044.80","2,11,261.11",15-Oct-18,88260016201,522.0138,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,11,261.11","26,626.18",0,"2,37,887.29",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,46,044.80","2,11,261.11",25-Jul-17,88260016201,522.0138,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"2,11,261.11","23,165.63",0,"2,34,426.74",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,09,939.40","3,03,687.84",31-Aug-18,88260016201,522.0138,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,03,687.84","20,664.27",0,"3,24,352.11",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,28,195.00","3,30,095.48",06-Jun-18,88260016201,522.0138,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,30,095.48","14,928.96",0,"3,45,024.44",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,37,322.80","3,43,299.30",25-Sep-17,88260016201,522.0138,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,43,299.30","10,493.83",0,"3,53,793.13",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"2,46,450.60","3,56,503.12",04-Nov-17,88260016201,522.0138,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"3,56,503.12","5,524.11",0,"3,62,027.23",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,103.50","15,89,810.54",09-Jan-17,88260016202,937.6488,Up to 3 Months,Over 1 mth to 3 mths,1.44655,"47,885.87","22,780.33","1,356.36","70,666.20",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"33,103.50","47,885.87",29-Sep-18,88260016202,937.6488,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"47,885.87","23,378.72",0,"71,264.59",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"49,655.24","71,828.79",14-Jun-17,88260016202,937.6488,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"71,828.79","22,403.75",0,"94,232.53",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"49,655.24","71,828.79",01-Feb-18,88260016202,937.6488,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"71,828.79","21,326.64",0,"93,155.43",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"49,655.24","71,828.79",12-Nov-17,88260016202,937.6488,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"71,828.79","20,024.55",0,"91,853.33",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"49,655.24","71,828.79",22-Apr-18,88260016202,937.6488,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"71,828.79","19,385.46",0,"91,214.25",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"56,275.94","81,405.96",19-Dec-17,88260016202,937.6488,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"81,405.96","18,296.39",0,"99,702.35",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"56,275.94","81,405.96",26-Apr-17,88260016202,937.6488,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"81,405.96","16,874.62",0,"98,280.57",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"56,275.94","81,405.96",22-Feb-18,88260016202,937.6488,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"81,405.96","15,479.97",0,"96,885.92",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"56,275.94","81,405.96",07-Nov-17,88260016202,937.6488,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"81,405.96","14,593.55",0,"95,999.51",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"74,482.86","1,07,743.18",13-Jan-17,88260016202,937.6488,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,07,743.18","13,359.27",0,"1,21,102.45",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"5,34,621.45","7,73,356.66",05-Dec-17,88260016202,937.6488,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"7,73,356.66","11,596.81",0,"7,84,953.47",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"6,60,000.00","9,54,723.00",14-Dec-17,88260016209,3311.1144,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"9,54,723.00","1,30,842.40","4,789.69","10,85,565.40",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"1,15,500.00","1,67,076.53",22-Sep-17,88260016213,337.0224,Over 5 Years,Over 1 mth to 3 mths,1.44655,"1,67,076.53","20,649.96",487.52,"1,87,726.49",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",02-Nov-17,88260016214,96.294,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,899.99",139.29,"53,636.14",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",18-Jan-18,88260016215,96.294,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,899.99",139.29,"53,636.14",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",06-Mar-17,88260016216,96.294,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,899.99",139.29,"53,636.14",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"33,000.00","47,736.15",21-May-18,88260016236,89.8524,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,910.58",129.98,"53,646.73",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",14-Jan-17,88260016239,89.8458,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,910.58",129.97,"53,646.73",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"66,000.00","95,472.30",18-Oct-17,88260016240,179.6982,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,821.16",259.94,"1,07,293.46",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,000.00","47,736.15",22-Mar-17,88260016281,60.3702,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,958.25",87.33,"53,694.40",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"87,780.00","1,26,978.16",16-Jan-17,88260016282,160.5846,Over 5 Years,Over 1 mth to 3 mths,1.44655,"1,26,978.16","15,848.94",232.29,"1,42,827.10",Over 1 mth to 3 mths,Over 2 wks to 3 wks
+USD,"38,280.00","55,373.93",27-Nov-17,88260016283,70.026,Over 5 Years,Over 1 mth to 3 mths,1.44655,"55,373.93","6,911.57",101.3,"62,285.50",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"99,000.00","1,43,208.45",23-May-17,88260016287,181.1172,Over 5 Years,Over 1 mth to 3 mths,1.44655,"1,43,208.45","17,874.74",262,"1,61,083.19",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"66,000.00","95,472.30",16-Dec-18,88260016291,120.747,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,916.49",174.67,"1,07,388.79",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,000.00","95,472.30",27-Mar-18,88260016292,120.747,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,916.49",174.67,"1,07,388.79",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",16-Jan-17,88260016293,60.3702,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,958.25",87.33,"53,694.40",Over 1 mth to 3 mths,Over 2 wks to 3 wks
+USD,"33,000.00","47,736.15",16-Sep-18,88260016294,60.3702,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,958.25",87.33,"53,694.40",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,000.00","47,736.15",12-Jan-17,88260016297,60.3702,Over 5 Years,Over 1 mth to 3 mths,1.44655,"47,736.15","5,958.25",87.33,"53,694.40",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"59,400.00","85,925.07",10-Mar-17,88260016365,82.9752,Over 5 Years,Over 1 mth to 3 mths,1.44655,"85,925.07","10,753.44",120.03,"96,678.51",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"66,000.00","95,472.30",27-Oct-18,88260016366,92.1954,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,472.30","11,948.27",133.37,"1,07,420.57",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"19,800.00","28,641.69",05-Feb-17,88260016367,27.6606,Over 5 Years,Over 1 mth to 3 mths,1.44655,"28,641.69","3,584.48",40.01,"32,226.17",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"6,661.04","9,44,281.04",31-Mar-18,88260016441,1245.486,Up to 2 Months,Over 1 mth to 3 mths,1.44655,"9,635.52","9,669.49","1,801.66","19,305.01",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"9,991.56","14,453.28",26-Jun-18,88260016441,1245.486,Up to 5 Months,Over 1 mth to 3 mths,1.44655,"14,453.28","14,437.34",0,"28,890.63",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"9,991.56","14,453.28",05-Feb-18,88260016441,1245.486,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"14,453.28","14,533.50",0,"28,986.79",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"9,991.56","14,453.28",25-Mar-17,88260016441,1245.486,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"14,453.28","14,305.23",0,"28,758.51",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"9,991.56","14,453.28",27-Oct-18,88260016441,1245.486,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"14,453.28","13,922.26",0,"28,375.55",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"16,652.59","24,088.81",02-Jan-18,88260016441,1245.486,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"24,088.81","13,696.49",0,"37,785.30",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"16,652.59","24,088.81",26-Apr-18,88260016441,1245.486,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"24,088.81","13,468.22",0,"37,557.03",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"16,652.59","24,088.81",10-Oct-18,88260016441,1245.486,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"24,088.81",0,0,"24,088.81",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"16,652.59","24,088.81",24-Feb-18,88260016441,1245.486,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"24,088.81","25,414.61",0,"49,503.41",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,305.18","48,177.60",14-Aug-17,88260016441,1245.486,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"48,177.60","12,055.93",0,"60,233.53",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,305.18","48,177.60",12-May-18,88260016441,1245.486,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"48,177.60","11,565.93",0,"59,743.53",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,305.18","48,177.60",14-Nov-18,88260016441,1245.486,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"48,177.60","10,805.01",0,"58,982.62",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,305.18","48,177.60",25-Jul-18,88260016441,1245.486,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"48,177.60","9,933.72",0,"58,111.33",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"49,957.76","72,266.40",27-Jul-17,88260016441,1245.486,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"72,266.40","9,181.17",0,"81,447.57",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"49,957.76","72,266.40",13-Oct-18,88260016441,1245.486,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"72,266.40","8,052.33",0,"80,318.74",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"49,957.76","72,266.40",20-Apr-18,88260016441,1245.486,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"72,266.40","7,154.29",0,"79,420.69",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"49,957.76","72,266.40",09-Aug-18,88260016441,1245.486,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"72,266.40","5,601.51",0,"77,867.92",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"49,957.76","72,266.40",01-Jun-18,88260016441,1245.486,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"72,266.40","4,665.84",0,"76,932.24",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"49,957.76","72,266.40",16-Jan-18,88260016441,1245.486,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"72,266.40","3,694.21",0,"75,960.61",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"49,957.76","72,266.40",16-Jun-18,88260016441,1245.486,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"72,266.40","2,381.42",0,"74,647.82",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"49,957.76","72,266.40",21-Sep-18,88260016441,1245.486,Over 5 Years,Over 1 mth to 3 mths,1.44655,"72,266.40","1,279.34",0,"73,545.74",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"6,661.04","9,635.52",14-Mar-17,88260016441,1245.486,Over 5 Years,Over 1 mth to 3 mths,1.44655,"9,635.52",152.18,0,"9,787.71",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"4,476.68","6,34,622.66",26-Jul-17,88260016535,837.0582,Up to 2 Months,Over 1 mth to 3 mths,1.44655,"6,475.74","6,498.57","1,210.85","12,974.31",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"4,476.68","6,475.74",17-May-18,88260016535,837.0582,Up to 5 Months,Over 1 mth to 3 mths,1.44655,"6,475.74","9,702.90",0,"16,178.64",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"6,715.02","9,713.61",10-Dec-18,88260016535,837.0582,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"9,713.61","9,818.67",0,"19,532.27",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"6,715.02","9,713.61",22-Apr-17,88260016535,837.0582,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"9,713.61","9,665.25",0,"19,378.86",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"6,715.02","9,713.61",08-Aug-18,88260016535,837.0582,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"9,713.61","9,407.31",0,"19,120.92",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"6,715.02","9,713.61",11-Apr-17,88260016535,837.0582,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"9,713.61","9,255.58",0,"18,969.19",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"11,191.70","16,189.35",08-Sep-18,88260016535,837.0582,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"16,189.35","9,103.85",0,"25,293.20",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"11,191.70","16,189.35",11-Jul-18,88260016535,837.0582,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"16,189.35","8,949.30",0,"25,138.66",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"11,191.70","16,189.35",12-Dec-18,88260016535,837.0582,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"16,189.35","8,598.08",0,"24,787.43",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"11,191.70","16,189.35",06-Aug-17,88260016535,837.0582,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"16,189.35","8,252.47",0,"24,441.82",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"22,383.40","32,378.70",08-Oct-18,88260016535,837.0582,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"32,378.70","8,182.22",0,"40,560.93",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,383.40","32,378.70",18-Mar-18,88260016535,837.0582,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"32,378.70","7,670.83",0,"40,049.54",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,383.40","32,378.70",08-Nov-18,88260016535,837.0582,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"32,378.70","7,080.77",0,"39,459.47",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,383.40","32,378.70",10-Nov-17,88260016535,837.0582,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"32,378.70","6,575.00",0,"38,953.70",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"33,575.10","48,568.06",05-Jan-18,88260016535,837.0582,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"48,568.06","6,069.23",0,"54,637.29",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,575.10","48,568.06",29-Jan-18,88260016535,837.0582,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"48,568.06","5,487.60",0,"54,055.65",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,575.10","48,568.06",25-Apr-17,88260016535,837.0582,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"48,568.06","4,400.19",0,"52,968.25",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"33,575.10","48,568.06",26-Jun-18,88260016535,837.0582,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"48,568.06","3,793.27",0,"52,361.33",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,575.10","48,568.06",12-Apr-18,88260016535,837.0582,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"48,568.06","3,169.49",0,"51,737.54",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,575.10","48,568.06",21-Feb-18,88260016535,837.0582,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"48,568.06","2,250.67",0,"50,818.73",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,575.10","48,568.06",23-Jul-18,88260016535,837.0582,Over 5 Years,Over 1 mth to 3 mths,1.44655,"48,568.06","1,517.31",0,"50,085.37",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"33,575.13","48,568.11",05-Jan-17,88260016535,837.0582,Over 5 Years,Over 1 mth to 3 mths,1.44655,"48,568.11",767.08,0,"49,335.19",Over 1 mth to 3 mths,Up to 1 week
+USD,"5,287.02","7,49,497.51",07-Mar-17,88260016585,988.5678,Up to 2 Months,Over 1 mth to 3 mths,1.44655,"7,647.93","7,674.90","1,430.01","15,322.83",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"5,287.02","7,647.93",18-Jun-17,88260016585,988.5678,Up to 5 Months,Over 1 mth to 3 mths,1.44655,"7,647.93","11,459.25",0,"19,107.18",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"7,930.53","11,471.90",28-Jun-18,88260016585,988.5678,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"11,471.90","11,595.97",0,"23,067.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"7,930.53","11,471.90",06-Mar-17,88260016585,988.5678,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"11,471.90","11,414.78",0,"22,886.69",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"7,930.53","11,471.90",02-Dec-18,88260016585,988.5678,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"11,471.90","11,110.15",0,"22,582.05",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"7,930.53","11,471.90",02-Jul-18,88260016585,988.5678,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"11,471.90","10,930.95",0,"22,402.86",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"13,217.54","19,119.84",23-Jun-17,88260016585,988.5678,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,119.84","10,751.76",0,"29,871.59",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"13,217.54","19,119.84",24-Feb-18,88260016585,988.5678,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,119.84","10,569.24",0,"29,689.08",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"13,217.54","19,119.84",25-Mar-18,88260016585,988.5678,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,119.84","10,154.44",0,"29,274.27",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"13,217.54","19,119.84",15-Mar-17,88260016585,988.5678,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,119.84","9,746.27",0,"28,866.11",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"26,435.09","38,239.67",10-Oct-18,88260016585,988.5678,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"38,239.67","9,663.31",0,"47,902.98",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"26,435.09","38,239.67",25-Jun-17,88260016585,988.5678,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"38,239.67","9,059.35",0,"47,299.02",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"26,435.09","38,239.67",16-Jun-18,88260016585,988.5678,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"38,239.67","8,362.48",0,"46,602.15",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"26,435.09","38,239.67",26-Jan-18,88260016585,988.5678,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"38,239.67","7,765.16",0,"46,004.83",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"39,652.62","57,359.50",17-Jun-17,88260016585,988.5678,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"57,359.50","7,167.84",0,"64,527.34",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"39,652.62","57,359.50",18-Jun-18,88260016585,988.5678,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"57,359.50","6,480.92",0,"63,840.42",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"39,652.62","57,359.50",13-Jan-17,88260016585,988.5678,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"57,359.50","5,196.68",0,"62,556.18",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"39,652.62","57,359.50",18-Nov-17,88260016585,988.5678,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"57,359.50","4,479.90",0,"61,839.40",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"39,652.62","57,359.50",07-Apr-17,88260016585,988.5678,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"57,359.50","3,743.20",0,"61,102.70",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"39,652.62","57,359.50",10-May-17,88260016585,988.5678,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"57,359.50","2,658.07",0,"60,017.57",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"39,652.62","57,359.50",07-Oct-18,88260016585,988.5678,Over 5 Years,Over 1 mth to 3 mths,1.44655,"57,359.50","1,791.96",0,"59,151.46",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"39,652.62","57,359.49",20-Jun-18,88260016585,988.5678,Over 5 Years,Over 1 mth to 3 mths,1.44655,"57,359.49",905.93,0,"58,265.43",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"1,732.31","1,72,321.72",01-Oct-18,88260016651,40.194,Due on Value Day,Over 1 mth to 3 mths,1.44655,"2,505.87","2,555.33",58.14,"5,061.20",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"2,811.82","4,067.44",11-Dec-17,88260016651,40.194,Due on Value Day,Over 1 mth to 3 mths,1.44655,"4,067.44",0,0,"4,067.44",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"4,217.74","6,101.17",28-Dec-18,88260016651,40.194,Up to 4 Months,Over 1 mth to 3 mths,1.44655,"6,101.17","2,485.47",0,"8,586.63",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,217.74","6,101.17",06-Jul-18,88260016651,40.194,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"6,101.17","2,393.98",0,"8,495.14",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,217.74","6,101.17",15-Jun-17,88260016651,40.194,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"6,101.17","2,302.49",0,"8,403.66",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"4,217.74","6,101.17",04-Sep-18,88260016651,40.194,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"6,101.17","2,211.00",0,"8,312.17",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"4,217.74","6,101.17",26-Feb-18,88260016651,40.194,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"6,101.17","2,095.96",0,"8,197.13",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"11,247.30","16,269.78",17-Dec-18,88260016651,40.194,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"16,269.78","2,050.55",0,"18,320.33",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"11,247.30","16,269.78",02-Aug-18,88260016651,40.194,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"16,269.78","1,784.05",0,"18,053.83",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"16,167.99","23,387.80",19-Jan-17,88260016651,40.194,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"23,387.80","1,591.41",0,"24,979.21",Over 1 mth to 3 mths,Over 2 wks to 3 wks
+USD,"17,573.90","25,421.52",29-Nov-17,88260016651,40.194,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"25,421.52","1,149.72",0,"26,571.24",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"18,276.86","26,438.39",04-Oct-17,88260016651,40.194,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"26,438.39",808.16,0,"27,246.55",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"18,979.84","27,455.29",17-Apr-17,88260016651,40.194,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"27,455.29",425.43,0,"27,880.72",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"8,709.19","12,34,631.01",21-Feb-18,88260016653,1628.4576,Up to 2 Months,Over 1 mth to 3 mths,1.44655,"12,598.28","12,642.69","2,355.65","25,240.97",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"8,709.19","12,598.28",23-Dec-17,88260016653,1628.4576,Up to 5 Months,Over 1 mth to 3 mths,1.44655,"12,598.28","18,876.57",0,"31,474.85",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"13,063.78","18,897.41",19-Aug-17,88260016653,1628.4576,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"18,897.41","19,101.79",0,"37,999.20",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"13,063.78","18,897.41",02-Oct-17,88260016653,1628.4576,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"18,897.41","18,803.32",0,"37,700.74",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"13,063.78","18,897.41",04-Jan-17,88260016653,1628.4576,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"18,897.41","18,301.51",0,"37,198.92",Over 1 mth to 3 mths,Up to 1 week
+USD,"13,063.78","18,897.41",29-May-18,88260016653,1628.4576,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"18,897.41","18,006.32",0,"36,903.74",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"21,772.97","31,495.69",17-Nov-17,88260016653,1628.4576,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"31,495.69","17,711.14",0,"49,206.83",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"21,772.97","31,495.69",13-Mar-18,88260016653,1628.4576,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"31,495.69","17,410.49",0,"48,906.18",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"21,772.97","31,495.69",24-Sep-17,88260016653,1628.4576,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"31,495.69","16,727.19",0,"48,222.88",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"21,772.97","31,495.69",07-Jun-18,88260016653,1628.4576,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"31,495.69","16,054.82",0,"47,550.51",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"43,545.94","62,991.38",03-May-18,88260016653,1628.4576,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"62,991.38","15,918.16",0,"78,909.54",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"43,545.94","62,991.38",23-May-18,88260016653,1628.4576,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"62,991.38","14,923.27",0,"77,914.66",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"43,545.94","62,991.38",07-Sep-17,88260016653,1628.4576,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"62,991.38","13,775.33",0,"76,766.71",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"43,545.94","62,991.38",19-Dec-18,88260016653,1628.4576,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"62,991.38","12,791.38",0,"75,782.76",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,318.91","94,487.06",15-Aug-18,88260016653,1628.4576,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"94,487.06","11,807.42",0,"1,06,294.49",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,318.91","94,487.06",09-Feb-18,88260016653,1628.4576,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"94,487.06","10,675.88",0,"1,05,162.94",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,318.91","94,487.06",25-Oct-18,88260016653,1628.4576,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"94,487.06","8,560.38",0,"1,03,047.45",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,318.91","94,487.06",25-Aug-18,88260016653,1628.4576,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"94,487.06","7,379.64",0,"1,01,866.70",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,318.91","94,487.06",21-May-18,88260016653,1628.4576,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"94,487.06","6,166.10",0,"1,00,653.16",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,318.91","94,487.06",12-May-18,88260016653,1628.4576,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"94,487.06","4,378.59",0,"98,865.65",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,318.91","94,487.06",04-Aug-18,88260016653,1628.4576,Over 5 Years,Over 1 mth to 3 mths,1.44655,"94,487.06","2,951.86",0,"97,438.92",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"65,318.90","94,487.05",30-Dec-17,88260016653,1628.4576,Over 5 Years,Over 1 mth to 3 mths,1.44655,"94,487.05","1,492.33",0,"95,979.38",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"6,171.30","8,74,855.13",04-Aug-17,88260016702,1153.9242,Up to 2 Months,Over 1 mth to 3 mths,1.44655,"8,927.09","8,958.57","1,669.21","17,885.66",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"6,171.30","8,927.09",15-Sep-18,88260016702,1153.9242,Up to 5 Months,Over 1 mth to 3 mths,1.44655,"8,927.09","13,526.16",0,"22,453.25",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"9,256.95","13,390.64",06-Nov-18,88260016702,1153.9242,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"13,390.64","13,386.72",0,"26,777.36",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"9,256.95","13,390.64",09-Sep-18,88260016702,1153.9242,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"13,390.64","13,323.97",0,"26,714.61",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"9,256.95","13,390.64",20-Sep-18,88260016702,1153.9242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"13,390.64","12,968.38",0,"26,359.02",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"9,256.95","13,390.64",22-Aug-17,88260016702,1153.9242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"13,390.64","12,759.22",0,"26,149.86",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"15,428.25","22,317.73",06-Oct-18,88260016702,1153.9242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"22,317.73","12,550.05",0,"34,867.78",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"15,428.25","22,317.73",20-Feb-17,88260016702,1153.9242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"22,317.73","12,337.01",0,"34,654.74",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"15,428.25","22,317.73",14-Sep-18,88260016702,1153.9242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"22,317.73","11,852.82",0,"34,170.55",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"15,428.25","22,317.73",03-Aug-18,88260016702,1153.9242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"22,317.73","11,376.39",0,"33,694.12",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"30,856.50","44,635.47",01-Oct-17,88260016702,1153.9242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"44,635.47","11,279.55",0,"55,915.02",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"30,856.50","44,635.47",08-Jan-17,88260016702,1153.9242,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"44,635.47","10,342.17",0,"54,977.64",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"30,856.50","44,635.47",08-Oct-18,88260016702,1153.9242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"44,635.47","9,869.61",0,"54,505.07",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"30,856.50","44,635.47",08-Mar-18,88260016702,1153.9242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"44,635.47","9,063.92",0,"53,699.39",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"46,284.74","66,953.20",23-May-17,88260016702,1153.9242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"66,953.20","8,366.70",0,"75,319.90",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"46,284.74","66,953.20",19-Jul-18,88260016702,1153.9242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"66,953.20","7,646.23",0,"74,599.43",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"46,284.74","66,953.20",05-Apr-18,88260016702,1153.9242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"66,953.20","5,996.13",0,"72,949.33",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"46,284.74","66,953.20",06-Jan-17,88260016702,1153.9242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"66,953.20","5,229.19",0,"72,182.38",Over 1 mth to 3 mths,Up to 1 week
+USD,"46,284.74","66,953.20",16-Feb-18,88260016702,1153.9242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"66,953.20","4,415.76",0,"71,368.95",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"46,284.74","66,953.20",06-Sep-18,88260016702,1153.9242,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"66,953.20","3,102.65",0,"70,055.85",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"46,284.74","66,953.20",05-Nov-18,88260016702,1153.9242,Over 5 Years,Over 1 mth to 3 mths,1.44655,"66,953.20","2,091.68",0,"69,044.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"46,284.77","66,953.23",30-Dec-17,88260016702,1153.9242,Over 5 Years,Over 1 mth to 3 mths,1.44655,"66,953.23","1,057.46",0,"68,010.69",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,441.21,"12,76,465.43",17-Jul-18,88260016706,614.361,Up to 6 Months,Over 3 mths to 6 mths,1.44655,638.23,"39,780.09",888.7,"40,418.32",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,441.21,638.23,16-May-18,88260016706,614.361,Up to 1 Year,Over 3 mths to 6 mths,1.44655,638.23,"40,426.57",0,"41,064.80",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"2,206.05","3,191.16",27-Feb-18,88260016706,614.361,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"3,191.16","40,184.33",0,"43,375.49",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"2,206.05","3,191.16",15-Aug-17,88260016706,614.361,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"3,191.16","40,305.23",0,"43,496.39",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"8,77,126.02","12,68,806.65",13-Sep-18,88260016706,614.361,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"12,68,806.65","39,983.21",0,"13,08,789.85",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,"7,928.74","7,88,713.42",02-Sep-18,88260016726,184.0014,Due on Value Day,Over 1 mth to 3 mths,1.44655,"11,469.32","11,695.68",266.17,"23,165.00",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"12,869.67","18,616.62",09-Jul-18,88260016726,184.0014,Due on Value Day,Over 1 mth to 3 mths,1.44655,"18,616.62",0,0,"18,616.62",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"19,304.51","27,924.93",11-May-18,88260016726,184.0014,Up to 4 Months,Over 1 mth to 3 mths,1.44655,"27,924.93","11,375.94",0,"39,300.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"19,304.51","27,924.93",30-Jul-18,88260016726,184.0014,Up to 6 Months,Over 1 mth to 3 mths,1.44655,"27,924.93","10,957.20",0,"38,882.13",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"19,304.51","27,924.93",09-Jun-18,88260016726,184.0014,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"27,924.93","10,538.45",0,"38,463.38",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"19,304.51","27,924.93",05-Sep-17,88260016726,184.0014,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"27,924.93","10,119.70",0,"38,044.63",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"19,304.51","27,924.93",23-Nov-18,88260016726,184.0014,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"27,924.93","9,593.17",0,"37,518.10",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"51,478.68","74,466.48",23-Jul-17,88260016726,184.0014,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"74,466.48","9,385.35",0,"83,851.83",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"51,478.68","74,466.48",31-May-17,88260016726,184.0014,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"74,466.48","8,165.55",0,"82,632.04",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"74,000.59","1,07,045.55",20-Jan-18,88260016726,184.0014,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,07,045.55","7,283.86",0,"1,14,329.41",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"80,435.42","1,16,353.86",09-Sep-17,88260016726,184.0014,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,16,353.86","5,262.25",0,"1,21,616.11",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"83,652.86","1,21,008.04",06-May-18,88260016726,184.0014,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,21,008.04","3,698.93",0,"1,24,706.97",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"86,870.42","1,25,662.41",12-Apr-18,88260016726,184.0014,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"1,25,662.41","1,947.17",0,"1,27,609.58",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,259.32,"7,50,247.48",04-Apr-18,88260016746,361.0926,Up to 6 Months,Over 3 mths to 6 mths,1.44655,375.12,"23,380.90",522.34,"23,756.02",Over 3 mths to 6 mths,Over 1 yr to 2 yrs 
+USD,259.32,375.12,18-May-17,88260016746,361.0926,Up to 1 Year,Over 3 mths to 6 mths,1.44655,375.12,"23,760.87",0,"24,135.99",Over 3 mths to 6 mths,Over 3 mths to 6 mths
+USD,"1,296.62","1,875.62",16-Jul-17,88260016746,361.0926,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"1,875.62","23,618.50",0,"25,494.12",Over 3 mths to 6 mths,Over 6 mths to 1 yr
+USD,"1,296.62","1,875.62",06-Jan-17,88260016746,361.0926,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"1,875.62","23,689.55",0,"25,565.17",Over 3 mths to 6 mths,Up to 1 week
+USD,"5,15,534.20","7,45,746.00",13-Mar-17,88260016746,361.0926,Up to 3 Years,Over 3 mths to 6 mths,1.44655,"7,45,746.00","23,500.29",0,"7,69,246.29",Over 3 mths to 6 mths,Over 1 mth to 3 mths
+USD,"7,801.67","11,05,978.96",23-Mar-17,88260016752,1458.765,Up to 2 Months,Over 1 mth to 3 mths,1.44655,"11,285.50","11,325.29","2,110.18","22,610.79",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"7,801.67","11,285.50",19-Apr-17,88260016752,1458.765,Up to 5 Months,Over 1 mth to 3 mths,1.44655,"11,285.50","17,099.58",0,"28,385.08",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"11,702.50","16,928.25",13-Jan-18,88260016752,1458.765,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"16,928.25","16,923.29",0,"33,851.54",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"11,702.50","16,928.25",15-Jan-18,88260016752,1458.765,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"16,928.25","16,843.96",0,"33,772.22",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"11,702.50","16,928.25",17-Aug-18,88260016752,1458.765,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"16,928.25","16,394.44",0,"33,322.69",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"11,702.50","16,928.25",25-Jul-17,88260016752,1458.765,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"16,928.25","16,130.01",0,"33,058.26",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"19,504.16","28,213.74",11-Jan-18,88260016752,1458.765,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"28,213.74","15,865.59",0,"44,079.33",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"19,504.16","28,213.74",31-May-18,88260016752,1458.765,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"28,213.74","15,596.26",0,"43,810.01",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"19,504.16","28,213.74",12-Apr-18,88260016752,1458.765,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"28,213.74","14,984.17",0,"43,197.91",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"19,504.16","28,213.74",10-Sep-17,88260016752,1458.765,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"28,213.74","14,381.86",0,"42,595.61",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"39,008.33","56,427.50",19-Oct-18,88260016752,1458.765,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"56,427.50","14,259.44",0,"70,686.94",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"39,008.33","56,427.50",22-Jun-17,88260016752,1458.765,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"56,427.50","13,074.42",0,"69,501.92",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"39,008.33","56,427.50",13-Aug-17,88260016752,1458.765,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"56,427.50","12,477.01",0,"68,904.51",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"39,008.33","56,427.50",10-Jan-18,88260016752,1458.765,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"56,427.50","11,458.48",0,"67,885.98",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"58,512.49","84,641.24",13-Feb-17,88260016752,1458.765,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"84,641.24","10,577.06",0,"95,218.30",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"58,512.49","84,641.24",24-Jun-18,88260016752,1458.765,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"84,641.24","9,666.26",0,"94,307.50",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"58,512.49","84,641.24",15-Jun-18,88260016752,1458.765,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"84,641.24","7,580.22",0,"92,221.47",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"58,512.49","84,641.24",02-Aug-17,88260016752,1458.765,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"84,641.24","6,610.66",0,"91,251.91",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"58,512.49","84,641.24",02-May-17,88260016752,1458.765,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"84,641.24","5,582.34",0,"90,223.58",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"58,512.49","84,641.24",27-Apr-17,88260016752,1458.765,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"84,641.24","3,922.33",0,"88,563.57",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"58,512.49","84,641.24",10-Nov-18,88260016752,1458.765,Over 5 Years,Over 1 mth to 3 mths,1.44655,"84,641.24","2,644.26",0,"87,285.51",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"58,512.50","84,641.26",07-Oct-18,88260016752,1458.765,Over 5 Years,Over 1 mth to 3 mths,1.44655,"84,641.26","1,336.82",0,"85,978.09",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"8,154.96","11,56,062.83",21-Jun-17,88260016788,1524.8244,Up to 2 Months,Over 1 mth to 3 mths,1.44655,"11,796.56","11,838.15","2,205.73","23,634.71",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"8,154.96","11,796.56",15-May-18,88260016788,1524.8244,Up to 5 Months,Over 1 mth to 3 mths,1.44655,"11,796.56","17,873.93",0,"29,670.48",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"12,232.44","17,694.84",04-Dec-17,88260016788,1524.8244,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"17,694.84","17,689.66",0,"35,384.49",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"12,232.44","17,694.84",20-Oct-17,88260016788,1524.8244,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"17,694.84","17,606.74",0,"35,301.57",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"12,232.44","17,694.84",13-Mar-18,88260016788,1524.8244,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"17,694.84","17,136.86",0,"34,831.69",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"12,232.44","17,694.84",19-Apr-18,88260016788,1524.8244,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"17,694.84","16,860.46",0,"34,555.29",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"20,387.41","29,491.40",17-Aug-18,88260016788,1524.8244,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"29,491.40","16,584.05",0,"46,075.46",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"20,387.41","29,491.40",02-Sep-17,88260016788,1524.8244,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"29,491.40","16,302.54",0,"45,793.94",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"20,387.41","29,491.40",29-Apr-17,88260016788,1524.8244,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"29,491.40","15,662.72",0,"45,154.12",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"20,387.41","29,491.40",08-Jan-17,88260016788,1524.8244,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"29,491.40","15,033.14",0,"44,524.54",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"40,774.81","58,982.80",18-Feb-17,88260016788,1524.8244,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"58,982.80","14,905.18",0,"73,887.97",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"40,774.81","58,982.80",05-Dec-17,88260016788,1524.8244,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"58,982.80","13,666.49",0,"72,649.29",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"40,774.81","58,982.80",12-May-17,88260016788,1524.8244,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"58,982.80","13,042.03",0,"72,024.82",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"40,774.81","58,982.80",31-May-17,88260016788,1524.8244,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"58,982.80","11,977.37",0,"70,960.17",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"61,162.21","88,474.20",16-May-18,88260016788,1524.8244,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"88,474.20","11,056.04",0,"99,530.24",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"61,162.21","88,474.20",23-Jul-17,88260016788,1524.8244,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"88,474.20","10,103.99",0,"98,578.19",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"61,162.21","88,474.20",30-Jul-18,88260016788,1524.8244,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"88,474.20","7,923.49",0,"96,397.69",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"61,162.21","88,474.20",11-Sep-18,88260016788,1524.8244,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"88,474.20","6,910.02",0,"95,384.22",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"61,162.21","88,474.20",21-Feb-18,88260016788,1524.8244,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"88,474.20","5,835.13",0,"94,309.33",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"61,162.21","88,474.20",07-Jun-17,88260016788,1524.8244,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"88,474.20","4,099.95",0,"92,574.15",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"61,162.21","88,474.20",25-Jul-17,88260016788,1524.8244,Over 5 Years,Over 1 mth to 3 mths,1.44655,"88,474.20","2,764.01",0,"91,238.21",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"61,162.20","88,474.18",16-Apr-18,88260016788,1524.8244,Over 5 Years,Over 1 mth to 3 mths,1.44655,"88,474.18","1,397.36",0,"89,871.54",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"9,049.60","12,82,888.54",13-Mar-17,88260016843,1692.108,Up to 2 Months,Over 1 mth to 3 mths,1.44655,"13,090.69","13,136.85","2,447.72","26,227.54",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"9,049.60","13,090.69",25-Jun-17,88260016843,1692.108,Up to 5 Months,Over 1 mth to 3 mths,1.44655,"13,090.69","19,834.78",0,"32,925.48",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"13,574.40","19,636.05",01-Mar-17,88260016843,1692.108,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"19,636.05","19,630.30",0,"39,266.35",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"13,574.40","19,636.05",27-Nov-17,88260016843,1692.108,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"19,636.05","19,538.28",0,"39,174.33",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"13,574.40","19,636.05",27-Dec-18,88260016843,1692.108,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,636.05","19,016.85",0,"38,652.90",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"13,574.40","19,636.05",24-Sep-18,88260016843,1692.108,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,636.05","18,710.13",0,"38,346.18",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,623.99","32,726.74",22-Jul-18,88260016843,1692.108,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"32,726.74","18,403.41",0,"51,130.15",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,623.99","32,726.74",13-Jul-18,88260016843,1692.108,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"32,726.74","18,091.00",0,"50,817.74",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,623.99","32,726.74",24-Aug-18,88260016843,1692.108,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"32,726.74","17,381.00",0,"50,107.73",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,623.99","32,726.74",16-May-18,88260016843,1692.108,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"32,726.74","16,682.35",0,"49,409.09",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"45,248.00","65,453.50",10-Apr-18,88260016843,1692.108,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"65,453.50","16,540.35",0,"81,993.84",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"45,248.00","65,453.50",09-Feb-18,88260016843,1692.108,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"65,453.50","15,165.77",0,"80,619.27",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"45,248.00","65,453.50",09-Sep-17,88260016843,1692.108,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"65,453.50","14,472.80",0,"79,926.30",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"45,248.00","65,453.50",01-Dec-17,88260016843,1692.108,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"65,453.50","13,291.35",0,"78,744.85",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"67,872.00","98,180.24",21-May-17,88260016843,1692.108,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"98,180.24","12,268.94",0,"1,10,449.18",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"67,872.00","98,180.24",09-Oct-18,88260016843,1692.108,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"98,180.24","11,212.45",0,"1,09,392.68",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"67,872.00","98,180.24",10-Dec-18,88260016843,1692.108,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"98,180.24","8,792.74",0,"1,06,972.98",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"67,872.00","98,180.24",13-Aug-17,88260016843,1692.108,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"98,180.24","7,668.09",0,"1,05,848.33",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"67,872.00","98,180.24",03-Oct-17,88260016843,1692.108,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"98,180.24","6,475.27",0,"1,04,655.51",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"67,872.00","98,180.24",31-Jul-18,88260016843,1692.108,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"98,180.24","4,549.73",0,"1,02,729.97",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"67,872.04","98,180.30",06-Jan-18,88260016843,1692.108,Over 5 Years,Over 1 mth to 3 mths,1.44655,"98,180.30","3,067.24",0,"1,01,247.53",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"67,872.04","98,180.30",11-Nov-17,88260016843,1692.108,Over 5 Years,Over 1 mth to 3 mths,1.44655,"98,180.30","1,550.66",0,"99,730.95",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"6,332.67","8,97,731.53",24-Apr-18,88260016872,1184.0928,Up to 2 Months,Over 1 mth to 3 mths,1.44655,"9,160.53","9,192.82","1,712.85","18,353.35",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"6,332.67","9,160.53",12-Jul-17,88260016872,1184.0928,Up to 5 Months,Over 1 mth to 3 mths,1.44655,"9,160.53","13,879.86",0,"23,040.39",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"9,499.01","13,740.79",31-Jan-17,88260016872,1184.0928,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"13,740.79","13,736.77",0,"27,477.56",Over 1 mth to 3 mths,Over 3 wks to 1 mth
+USD,"9,499.01","13,740.79",25-Jan-17,88260016872,1184.0928,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"13,740.79","13,672.37",0,"27,413.17",Over 1 mth to 3 mths,Over 3 wks to 1 mth
+USD,"9,499.01","13,740.79",05-Oct-17,88260016872,1184.0928,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"13,740.79","13,307.49",0,"27,048.28",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"9,499.01","13,740.79",18-Nov-17,88260016872,1184.0928,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"13,740.79","13,092.85",0,"26,833.65",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"15,831.68","22,901.31",11-Jul-17,88260016872,1184.0928,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"22,901.31","12,878.22",0,"35,779.53",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"15,831.68","22,901.31",13-Mar-18,88260016872,1184.0928,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"22,901.31","12,659.61",0,"35,560.92",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"15,831.68","22,901.31",11-Apr-17,88260016872,1184.0928,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"22,901.31","12,162.76",0,"35,064.07",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"15,831.68","22,901.31",28-Apr-17,88260016872,1184.0928,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"22,901.31","11,673.87",0,"34,575.18",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"31,663.35","45,802.63",16-Nov-17,88260016872,1184.0928,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"45,802.63","11,574.50",0,"57,377.12",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"31,663.35","45,802.63",04-Sep-18,88260016872,1184.0928,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"45,802.63","10,612.60",0,"56,415.23",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"31,663.35","45,802.63",20-Jul-17,88260016872,1184.0928,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"45,802.63","10,127.68",0,"55,930.31",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"31,663.35","45,802.63",18-May-18,88260016872,1184.0928,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"45,802.63","9,300.93",0,"55,103.56",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"47,495.04","68,703.95",02-Jul-17,88260016872,1184.0928,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"68,703.95","8,585.48",0,"77,289.43",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"47,495.04","68,703.95",17-Mar-17,88260016872,1184.0928,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"68,703.95","7,846.17",0,"76,550.12",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"47,495.04","68,703.95",06-Dec-18,88260016872,1184.0928,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"68,703.95","6,152.93",0,"74,856.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"47,495.04","68,703.95",06-Jun-18,88260016872,1184.0928,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"68,703.95","5,365.92",0,"74,069.87",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"47,495.04","68,703.95",11-Jan-17,88260016872,1184.0928,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"68,703.95","4,531.22",0,"73,235.17",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"47,495.04","68,703.95",28-Mar-18,88260016872,1184.0928,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"68,703.95","3,183.78",0,"71,887.73",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"47,495.04","68,703.95",07-Mar-17,88260016872,1184.0928,Over 5 Years,Over 1 mth to 3 mths,1.44655,"68,703.95","2,146.37",0,"70,850.32",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"47,495.01","68,703.90",29-May-18,88260016872,1184.0928,Over 5 Years,Over 1 mth to 3 mths,1.44655,"68,703.90","1,085.11",0,"69,789.01",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"8,809.97","12,48,918.55",08-Jan-17,88260016902,1647.3006,Up to 2 Months,Over 1 mth to 3 mths,1.44655,"12,744.06","12,789.00","2,382.90","25,533.06",Over 1 mth to 3 mths, Over 1 wk to 2 wks
+USD,"8,809.97","12,744.06",18-May-18,88260016902,1647.3006,Up to 5 Months,Over 1 mth to 3 mths,1.44655,"12,744.06","19,309.57",0,"32,053.63",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"13,214.96","19,116.10",03-Aug-17,88260016902,1647.3006,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"19,116.10","19,110.50",0,"38,226.61",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"13,214.96","19,116.10",29-Jul-17,88260016902,1647.3006,Up to 1 Year,Over 1 mth to 3 mths,1.44655,"19,116.10","19,020.92",0,"38,137.03",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"13,214.96","19,116.10",20-Sep-17,88260016902,1647.3006,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,116.10","18,513.30",0,"37,629.40",Over 1 mth to 3 mths,Over 6 mths to 1 yr
+USD,"13,214.96","19,116.10",13-Mar-18,88260016902,1647.3006,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"19,116.10","18,214.70",0,"37,330.80",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,024.93","31,860.17",03-Oct-18,88260016902,1647.3006,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"31,860.17","17,916.10",0,"49,776.26",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,024.93","31,860.17",31-Jan-17,88260016902,1647.3006,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"31,860.17","17,611.97",0,"49,472.13",Over 1 mth to 3 mths,Over 3 wks to 1 mth
+USD,"22,024.93","31,860.17",07-May-18,88260016902,1647.3006,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"31,860.17","16,920.76",0,"48,780.92",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"22,024.93","31,860.17",10-Aug-18,88260016902,1647.3006,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"31,860.17","16,240.61",0,"48,100.78",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"44,049.87","63,720.33",11-Mar-18,88260016902,1647.3006,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"63,720.33","16,102.37",0,"79,822.70",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"44,049.87","63,720.33",28-Mar-17,88260016902,1647.3006,Up to 3 Years,Over 1 mth to 3 mths,1.44655,"63,720.33","14,764.19",0,"78,484.52",Over 1 mth to 3 mths,Over 1 mth to 3 mths
+USD,"44,049.87","63,720.33",09-May-17,88260016902,1647.3006,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"63,720.33","14,089.57",0,"77,809.90",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"44,049.87","63,720.33",10-Oct-18,88260016902,1647.3006,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"63,720.33","12,939.40",0,"76,659.74",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,074.80","95,580.50",17-Apr-17,88260016902,1647.3006,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,580.50","11,944.06",0,"1,07,524.56",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"66,074.80","95,580.50",08-Apr-18,88260016902,1647.3006,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,580.50","10,915.55",0,"1,06,496.05",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,074.80","95,580.50",01-Jun-18,88260016902,1647.3006,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,580.50","8,559.91",0,"1,04,140.41",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,074.80","95,580.50",07-May-18,88260016902,1647.3006,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,580.50","7,465.04",0,"1,03,045.54",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,074.80","95,580.50",06-Dec-18,88260016902,1647.3006,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,580.50","6,303.81",0,"1,01,884.31",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,074.80","95,580.50",04-May-17,88260016902,1647.3006,Up to 5 Years,Over 1 mth to 3 mths,1.44655,"95,580.50","4,429.26",0,"1,00,009.76",Over 1 mth to 3 mths,Over 3 mths to 6 mths
+USD,"66,074.80","95,580.50",19-Sep-18,88260016902,1647.3006,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,580.50","2,986.02",0,"98,566.52",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
+USD,"66,074.82","95,580.53",03-Mar-18,88260016902,1647.3006,Over 5 Years,Over 1 mth to 3 mths,1.44655,"95,580.53","1,509.60",0,"97,090.12",Over 1 mth to 3 mths,Over 1 yr to 2 yrs 
