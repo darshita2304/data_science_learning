@@ -9,6 +9,8 @@
 
 
 # app.py
+import uvicorn
+from fastapi import FastAPI
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
@@ -41,3 +43,14 @@ def add_country():
         countries.append(country)
         return country, 201
     return {"error": "Request must be JSON"}, 415
+
+
+# route = FastAPI()
+
+
+# @route.get("/")
+# async def root():
+#     return {"message": "Hello, GeeksforGeeks!"}
+
+# if __name__ == "__main__":
+#     uvicorn.run(route, host="0.0.0.0", port=8000)
