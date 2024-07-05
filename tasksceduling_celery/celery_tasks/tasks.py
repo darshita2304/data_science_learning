@@ -1,5 +1,5 @@
 from __future__ import absolute_import
-from tasksceduling_celery.celery import app
+from main import app
 import time
 
 
