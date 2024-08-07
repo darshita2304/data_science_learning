@@ -1,0 +1,8 @@
+pk_dict,"{'total_pk_fail': 2, 'pkduplicated': Int64Index([2, 6], dtype='int64'), 'pknull': []}",,,,,,
+datatype_dict,"{'zero_cnt': 0, 'negative_cnt': 0, 'null_cnt': 0, 'mismatch_cnt': {}}",,,,,,
+"('col_name', 'BUSINESS_DATE')","('col_sum', 303298243769)","('col_min', 20221231)","('col_max', 20221231)","('col_mean', 20221231.0)","('col_median', 20221231.0)","('col_std', 0.0)",0.0
+"('col_name', 'ACC_NUM')","('col_sum', 262482495)","('col_min', 10001)","('col_max', 24999)","('col_mean', 17499.999666644442)","('col_median', 17500.0)","('col_std', 4329.983255848996)",1.0
+"('col_name', 'INTEREST_RATE')","('col_sum', 7502.6336716)","('col_min', 9.9e-06)","('col_max', 0.9999815)","('col_mean', 0.5002089253683578)","('col_median', 0.4994406)","('col_std', 0.289852408164757)",2.0
+"('col_name', 'CURRENT_BALANCE')","('col_sum', 43114482782.5)","('col_min', 19240.44)","('col_max', 12330496.73)","('col_mean', 2874490.4848656575)","('col_median', 1404103.23)","('col_std', 3321730.4525118778)",3.0
+"('col_name', 'START_DATE')","('col_sum', 302984314699)","('col_min', 20200301)","('col_max', 20200301)","('col_mean', 20200301.0)","('col_median', 20200301.0)","('col_std', 0.0)",4.0
+"('col_name', 'INTEREST_AMT')","('col_sum', 10027490768.19)","('col_min', 121244.03)","('col_max', 1212160.3)","('col_mean', 668543.9541429429)","('col_median', 670332.73)","('col_std', 316135.9777350389)",5.0
