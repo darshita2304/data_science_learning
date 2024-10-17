@@ -1,0 +1,6 @@
+,A,B,C,D
+0,1,,,#NA
+1,N/A,,n/a,
+2,,#N/A,NaN,<NA>
+3,NULL,foo,null,
+4,nan,1.#IND,1.#QNAN,2023-01-01
